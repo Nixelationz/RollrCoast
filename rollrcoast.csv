@@ -1,326 +1,342 @@
-RANK,#,TOWER,ACRONYM,WLD,AREA,DIFFICULTY,NUM,TIME,TIME [s],COMPLETION DATE
-303,296,Tower of Genesis,ToG,1,Ring 00,[01]-[Easy],1.00,8:56.39,536.39,2025/10/27 14:51:23
-296,65,Tower of Six Feet Under,ToSFU,2,Zone 03,[01]-[Easy],1.05,9:58.07,598.07,2022/10/23 12:57:42
-323,7,Steeple of Beginner's Journey,SoBJ,1,Ring 02B,[01]-[Easy],1.11,5:17.88,317.88,2022/05/15 15:43:51
-302,13,Tower of Zero Disturbances,ToZD,2,Zone 01,[01]-[Easy],1.15,8:59.69,539.69,2022/05/18 20:31:30
-316,6,Steeple of Meaningless Decisions,SoMD,1,Ring 01B,[01]-[Easy],1.22,7:06.56,426.56,2022/05/15 15:24:05
-325,1,Tower of A Simple Time,ToAST,1,Ring 01,[01]-[Easy],1.25,4:56.63,296.63,2021/08/31 18:57:25
-309,311,Steeple of Zip Zap Pop!,SoZZP,2,Zone 01B,[01]-[Easy],1.43,7:52.83,472.83,2026/01/24 21:15:25
-284,298,Tower of Motion Evolution,ToME,1,Ring 00,[01]-[Easy],1.46,11:17.65,677.65,2025/10/27 16:00:26
-252,297,Tower of Buttons,ToB,1,Ring 00,[01]-[Easy],1.48,16:19.89,979.89,2025/10/27 15:20:27
-311,2,Tower of Anger,ToA,1,Ring 01,[01]-[Easy],1.50,7:39.39,459.39,2021/08/31 19:27:26
-315,9,Steeple of Devil's Snare,SoDS,1,Ring 02B,[01]-[Easy],1.54,7:09.71,429.71,2022/05/16 18:40:30
-317,14,Tower of Peaceful Happiness and Tranquility,ToPHaT,2,Zone 01,[01]-[Easy],1.55,6:56.98,416.98,2022/05/18 20:42:00
-232,76,Tower of Fairly Simple Challenges,ToFSC,2,Zone 04,[01]-[Easy],1.58,18:04.03,1084.03,2022/11/16 17:19:08
-305,12,Tower of Jolly Good Fun,ToJGF,1,Ring 01B,[01]-[Easy],1.65,8:39.46,519.46,2022/05/18 17:25:51
-79,18,Tower of Funny Thoughts,ToFT,1,Ring 03,[01]-[Easy],1.70,44:15.40,2655.40,2022/05/20 20:19:26
-319,47,Steeple of Mystical Marine,SoMM,2,Zone 03B,[01]-[Easy],1.76,6:20.96,380.96,2022/09/23 22:04:18
-262,315,Steeple of Golf Course,SoGC,2,Zone 01B,[01]-[Easy],1.86,14:52.41,892.41,2026/01/24 23:37:15
-294,23,Tower of Spiralling Heights,ToSH,1,Ring 04,[01]-[Easy],1.90,10:08.38,608.38,2022/05/30 14:47:15
-229,302,Tower of Critical Damage,ToCD,1,Ring 00,[01]-[Easy],1.93,18:19.37,1099.37,2025/10/27 20:47:25
-188,64,Tower of Overestimating Difficulty,ToOD,2,Zone 03,[01]-[Easy],1.99,24:23.55,1463.55,2022/10/23 12:46:27
-216,299,Tower of Boost Mayhem,ToBM,1,Ring 00,[02]-[Medium],2.00,20:08.08,1208.08,2025/10/27 16:25:39
-291,66,Tower of Broken Bricks,ToBB,2,Zone 03,[02]-[Medium],2.07,10:19.19,619.19,2022/10/24 19:46:08
-234,43,Tower of Inverted Colors,ToIC,1,Ring 03,[02]-[Medium],2.09,17:43.69,1063.69,2022/08/30 20:18:57
-310,3,Tower of Madness,ToM,1,Ring 01,[02]-[Medium],2.12,7:39.99,459.99,2021/09/05 20:29:12
-233,303,Tower of Various Pressures,ToVP,1,Ring 00,[02]-[Medium],2.24,17:48.05,1068.05,2025/10/27 21:07:12
-307,26,Steeple of Infectious Foliage,SoIF,1,Ring 02B,[02]-[Medium],2.32,8:05.82,485.82,2022/05/30 21:11:10
-211,106,Tower of Somewhat Simple Scaling,ToSSS,1,Ring 08,[02]-[Medium],2.38,21:10.16,1270.16,2023/01/11 16:26:41
-320,71,Steeple of Biome Traversing,SoBT,2,Zone 02B,[02]-[Medium],2.39,6:09.75,369.75,2022/11/09 20:24:51
-324,70,Steeple of Astounding Sorcery,SoAS,2,Zone 02B,[02]-[Medium],2.53,5:08.58,308.58,2022/11/09 19:56:26
-131,304,Tower of Kinetic Potential,ToKP,1,Ring 00,[02]-[Medium],2.54,32:04.95,1924.95,2025/10/27 21:41:32
-178,310,Tower of Sunshower Lambent,ToSL,2,Zone 01B,[02]-[Medium],2.55,25:42.18,1542.18,2026/01/24 21:05:59
-197,39,Tower of Ancient Trickery,ToAT,1,Ring 03,[02]-[Medium],2.62,23:03.50,1383.50,2022/08/27 14:42:58
-283,29,Tower of Atlantic Depths,ToAD,2,Zone 01,[02]-[Medium],2.65,11:30.45,690.45,2022/06/03 19:38:37
-295,209,Tower of Fruity Zeal,ToFZ,1,Ring 06B,[02]-[Medium],2.66,10:04.13,604.13,2024/03/03 09:27:59
-288,10,Steeple of Overgrowth,SoO,1,Ring 02B,[02]-[Medium],2.67,10:49.54,649.54,2022/05/17 17:42:23
-194,51,Tower of Venomous Resonance,ToVR,2,Zone 02,[02]-[Medium],2.68,23:19.19,1399.19,2022/09/28 17:11:23
-201,312,Tower of Quantum Rhythm,ToQR,2,Zone 01B,[02]-[Medium],2.72,22:44.72,1364.72,2026/01/24 21:38:44
-267,290,Steeple of Undersea Voyage,SoUV,2,Zone 03B,[02]-[Medium],2.74,14:17.51,857.51,2025/10/02 14:43:28
-145,146,Tower of Jazz,ToJ,2,Zone 07,[02]-[Medium],2.75,30:23.29,1823.29,2023/03/13 18:38:57
-286,15,Tower of Phone Snapping,ToPS,1,Ring 02,[02]-[Medium],2.76,11:08.04,668.04,2022/05/19 15:54:22
-321,8,Steeple of Low Woe,SoLW,1,Ring 01B,[02]-[Medium],2.78,5:22.80,322.80,2022/05/15 16:18:04
-263,301,Tower of No Strings Attached,ToNSA,1,Ring 00,[02]-[Medium],2.79,14:46.89,886.89,2025/10/27 20:23:06
-221,260,Tower of Noticeable Infuriation,ToNI,1,Ring 01,[02]-[Medium],2.80,19:24.41,1164.41,2025/02/18 18:48:04
-271,11,Steeple of Nightfall,SoN,1,Ring 02B,[02]-[Medium],2.81,13:24.11,804.11,2022/05/17 18:11:06
-82,42,Tower of Deep Sighing,ToDS,1,Ring 03,[02]-[Medium],2.83,43:02.90,2582.90,2022/08/30 20:00:31
-299,24,Tower of Getting Gnomed,ToGG,1,Ring 04,[02]-[Medium],2.84,9:40.35,580.35,2022/05/30 15:12:50
-272,317,Tower of Steel and Thunder,ToSaT,2,Zone 01B,[02]-[Medium],2.85,13:21.18,801.18,2026/01/25 09:38:52
-314,55,Tower of Nice Views,ToNV,1,Ring 05,[02]-[Medium],2.85,7:16.91,436.91,2022/10/08 15:49:07
-322,17,Steeple of Pursuit,SoP,1,Ring 01B,[02]-[Medium],2.86,5:22.33,322.33,2022/05/19 16:32:49
-189,63,Tower of Client Object Frenzy,ToCOF,2,Zone 03,[02]-[Medium],2.87,24:02.95,1442.95,2022/10/23 11:25:51
-175,101,Tower of Excessive Weirdness,ToEW,1,Ring 05B,[02]-[Medium],2.89,26:20.28,1580.28,2022/12/27 18:49:03
-94,87,Tower of Aquatic Contemplation,ToAC,2,Zone 04,[02]-[Medium],2.95,39:39.70,2379.70,2022/11/26 18:57:16
-256,52,Tower of Slanted Anticipation,ToSA,2,Zone 02,[02]-[Medium],2.98,15:42.39,942.39,2022/09/28 17:27:17
-167,305,Tower of Keys To Success,ToKTS,1,Ring 00,[03]-[Hard],3.00,27:43.16,1663.16,2025/10/27 22:20:57
-215,57,Tower of Friendly Jumps,ToFJ,1,Ring 06,[03]-[Hard],3.03,20:10.67,1210.67,2022/10/12 22:00:36
-177,313,Tower of Fly High,ToFH,2,Zone 01B,[03]-[Hard],3.10,26:02.15,1562.15,2026/01/24 22:34:25
-290,16,Steeple of Overgrown Ascension,SoOA,1,Ring 02B,[03]-[Hard],3.16,10:30.84,630.84,2022/05/19 16:18:50
-259,147,Tower of Rough Waters,ToRW,2,Zone 07,[03]-[Hard],3.23,15:25.05,925.05,2023/03/13 18:55:58
-306,292,Steeple of Waterfall,SoW,2,Zone 03B,[03]-[Hard],3.24,8:20.09,500.09,2025/10/02 15:30:33
-227,33,Tower of Peace,ToP,2,Zone 01,[03]-[Hard],3.26,18:30.02,1110.02,2022/06/12 14:53:00
-235,75,Tower of Fun and Simple Trials,ToFaST,2,Zone 04,[03]-[Hard],3.29,17:36.96,1056.96,2022/11/16 16:56:13
-230,4,Tower of Hecc,ToH,1,Ring 01,[03]-[Hard],3.30,18:13.73,1093.73,2022/05/12 20:17:54
-292,306,Tower of Dancing All Night,ToDAN,1,Ring 00,[03]-[Hard],3.35,10:15.97,615.97,2025/10/27 22:33:01
-312,79,Steeple of Atmospheric Powers,SoAP,2,Zone 02B,[03]-[Hard],3.36,7:36.25,456.25,2022/11/19 13:16:09
-14,98,Tower of Sovereign Travelling,ToST,2,Zone 05,[03]-[Hard],3.40,89:37.12,5377.12,2022/12/13 19:53:36
-218,25,Tower of Big Hole,ToBH,1,Ring 02,[03]-[Hard],3.40,19:37.55,1177.55,2022/05/30 17:45:13
-64,5,Tower of Killjoys,ToK,1,Ring 01,[03]-[Hard],3.47,48:59.37,2939.37,2022/05/14 13:09:16
-210,48,Tower of Hands Sweating,ToHS,2,Zone 01,[03]-[Hard],3.48,21:21.66,1281.66,2022/09/24 15:10:24
-245,44,Tower of Fatness,ToF,1,Ring 03,[03]-[Hard],3.54,16:57.14,1017.14,2022/09/16 21:20:35
-223,45,Tower of Winning Every Run,ToWER,1,Ring 03,[03]-[Hard],3.55,18:52.19,1132.19,2022/09/16 21:40:33
-155,88,Tower of Up Is Down,ToUID,2,Zone 04,[03]-[Hard],3.56,29:29.52,1769.52,2022/11/26 19:27:15
-35,59,Tower of Ground Level Ascension,ToGLA,2,Zone 02,[03]-[Hard],3.57,67:17.90,4037.90,2022/10/16 09:30:41
-116,72,"Tower of Cracked, Crushed Cubes",ToCCC,2,Zone 03,[03]-[Hard],3.58,34:48.88,2088.88,2022/11/10 17:53:09
-111,291,Tower of Call It A Day,ToCIAD,2,Zone 03B,[03]-[Hard],3.59,35:54.41,2154.41,2025/10/02 15:20:49
-118,54,Tower of Terrible Mondays,ToTM,1,Ring 04,[03]-[Hard],3.60,34:31.11,2071.11,2022/10/02 12:59:14
-264,119,Tower of Foreign Domains,ToFD,2,Zone 06,[03]-[Hard],3.64,14:38.28,878.28,2023/01/19 20:10:49
-219,27,Steeple of Greenhouse Placidity,SoGP,1,Ring 02B,[03]-[Hard],3.70,19:32.38,1172.38,2022/06/01 17:23:31
-222,148,Tower of Sweet Victory,ToSV,2,Zone 07,[03]-[Hard],3.72,19:04.03,1144.03,2023/03/13 19:18:20
-300,50,Tower of Overcoming Hatred,ToOH,1,Ring 02,[03]-[Hard],3.73,9:26.29,566.29,2022/09/27 19:06:21
-318,20,Steeple of Uninstalling Roblox,SoUR,1,Ring 01B,[03]-[Hard],3.74,6:26.70,386.70,2022/05/22 14:02:23
-134,162,Tower of Melons In Time,ToMIT,2,Zone 08,[03]-[Hard],3.76,31:46.55,1906.55,2023/04/16 18:25:35
-191,318,Tower of Calm Before The Storm,ToCBTS,2,Zone 01B,[03]-[Hard],3.77,23:51.77,1431.77,2026/01/25 10:03:54
-214,100,Tower of Two Sided Troubles,ToTST,1,Ring 05B,[03]-[Hard],3.79,20:25.66,1225.66,2022/12/27 16:06:55
-237,30,Steeple of Feudal Foliage,SoFF,1,Ring 02B,[03]-[Hard],3.80,17:31.36,1051.36,2022/06/04 21:17:34
-250,93,Tower of Xanthophobia,ToX,2,Zone 03,[03]-[Hard],3.81,16:23.50,983.50,2022/12/01 17:51:58
-270,32,Steeple of Lost In Quiescence,SoLIQ,1,Ring 02B,[03]-[Hard],3.84,13:32.29,812.29,2022/06/05 09:47:04
-279,309,Tower of Ten Floors Challenge,ToTFC,2,Zone 01B,[03]-[Hard],3.85,12:14.38,734.38,2026/01/24 16:28:50
-236,210,Tower of Viaduct Traversing,ToVT,1,Ring 06B,[03]-[Hard],3.89,17:31.60,1051.60,2024/03/03 09:48:28
-88,107,Tower of Needing Basic Aptitude,ToNBA,1,Ring 08,[03]-[Hard],3.90,42:05.98,2525.98,2023/01/11 17:12:33
-181,53,Tower of Mirrored Hecc,ToMH,2,Zone 01,[03]-[Hard],3.91,25:08.88,1508.88,2022/09/30 20:14:54
-220,97,Tower of Super Stupid Security Systems,ToSSSS,2,Zone 05,[03]-[Hard],3.91,19:27.28,1167.28,2022/12/11 21:09:40
-141,60,Tower of Elysium,ToE,1,Ring 04,[03]-[Hard],3.92,31:06.41,1866.41,2022/10/22 11:44:10
-199,163,Tower of Cosmic Tides,ToCT,2,Zone 08,[03]-[Hard],3.93,22:49.17,1369.17,2023/04/16 20:18:37
-200,61,Steeple of Abyssal Upturn,SoAU,2,Zone 03B,[03]-[Hard],3.94,22:46.51,1366.51,2022/10/22 21:26:45
-195,73,Steeple of Realm Odyssey,SoRO,2,Zone 02B,[03]-[Hard],3.99,23:18.86,1398.86,2022/11/14 19:52:31
-313,77,Tower of Cold Hands,ToCH,1,Ring 02,[04]-[Difficult],4.00,7:25.08,445.08,2022/11/18 21:29:28
-154,41,Tower of Slight Inconvenience,ToSI,1,Ring 03,[04]-[Difficult],4.01,29:38.56,1778.56,2022/08/29 17:21:12
-212,31,Steeple of Various Vivariums,SoVV,1,Ring 02B,[04]-[Difficult],4.01,20:48.67,1248.67,2022/06/04 21:39:15
-152,68,Steeple of Sunny Island Shenanigans,SoSIS,2,Zone 03B,[04]-[Difficult],4.03,29:40.50,1780.50,2022/11/07 21:09:46
-115,58,Tower of Troublesome Adventures,ToTA,2,Zone 02,[04]-[Difficult],4.05,35:01.48,2101.48,2022/10/15 09:43:33
-265,19,Tower of Keyboard Yeeting,ToKY,1,Ring 01,[04]-[Difficult],4.10,14:24.56,864.56,2022/05/22 10:30:15
-260,56,Tower of Trivial Resentment,ToTR,1,Ring 05,[04]-[Difficult],4.11,15:09.77,909.77,2022/10/08 18:01:00
-89,278,Tower of Lethean Recollection,ToLR,1,Ring 08B,[04]-[Difficult],4.13,41:29.84,2489.84,2025/06/15 11:07:56
-225,84,Steeple of Twisted Crystals,SoTC,2,Zone 02B,[04]-[Difficult],4.15,18:43.05,1123.05,2022/11/24 18:01:55
-117,69,Tower of Unearthed Discoveries,ToUD,2,Zone 02,[04]-[Difficult],4.21,34:41.75,2081.75,2022/11/08 19:15:01
-277,211,Tower of Corner Wedge Climbing,ToCWC,1,Ring 06B,[04]-[Difficult],4.23,12:37.50,757.50,2024/03/03 10:02:42
-289,21,Tower of Immense Ire,ToII,1,Ring 01B,[04]-[Difficult],4.24,10:39.83,639.83,2022/05/24 20:04:10
-16,300,Citadel of Victory,CoV,2,Zone 03B,[04]-[Difficult],4.25,88:57.33,5337.33,2025/10/27 19:58:00
-308,92,Steeple of Aquatic Rallies,SoAR,2,Zone 03B,[04]-[Difficult],4.34,7:57.96,477.96,2022/12/01 15:40:53
-153,36,Tower of Rigid Success,ToRS,1,Ring 05,[04]-[Difficult],4.36,29:39.11,1779.11,2022/06/15 19:31:39
-273,37,Tower of Wall Hugging,ToWH,1,Ring 03,[04]-[Difficult],4.37,13:17.79,797.79,2022/06/19 12:04:54
-68,90,Tower of Dimensional Hopping,ToDH,2,Zone 03,[04]-[Difficult],4.38,47:06.59,2826.59,2022/11/28 20:24:39
-160,78,Tower of Environmental Pain,ToEP,1,Ring 06,[04]-[Difficult],4.40,28:36.75,1716.75,2022/11/19 12:31:11
-77,85,Tower of Contractual Obligations,ToCO,2,Zone 01,[04]-[Difficult],4.46,45:07.84,2707.84,2022/11/25 12:41:27
-257,149,Tower of Bygone Relic,ToBR,2,Zone 07,[04]-[Difficult],4.49,15:42.05,942.05,2023/03/13 21:01:49
-183,82,Tower of Linonophobia,ToL,1,Ring 04,[04]-[Difficult],4.50,25:00.53,1500.53,2022/11/21 20:54:43
-47,89,Tower of Elevator Travelling,ToET,2,Zone 04,[04]-[Difficult],4.51,57:29.74,3449.74,2022/11/26 23:23:00
-103,95,Tower of Fractal Volution,ToFV,2,Zone 05,[04]-[Difficult],4.52,37:11.73,2231.73,2022/12/06 16:31:39
-239,83,Tower of Radiant Realms,ToRR,1,Ring 06,[04]-[Difficult],4.52,17:20.59,1040.59,2022/11/23 16:04:31
-139,28,Steeple of Wall Punching,SoWP,1,Ring 01B,[04]-[Difficult],4.57,31:22.18,1882.18,2022/06/02 17:58:27
-45,80,Tower of Rushed Building,ToRB,1,Ring 07,[04]-[Difficult],4.58,58:04.22,3484.22,2022/11/20 17:09:47
-67,111,Tower of Mild Agitation,ToMA,2,Zone 03,[04]-[Difficult],4.59,47:32.19,2852.19,2023/01/13 17:50:13
-31,103,Citadel of Inside Situations,CoIS,1,Ring 05B,[04]-[Difficult],4.60,70:00.12,4200.12,2023/01/01 01:43:06
-176,40,Tower of Lotsa Damage,ToLD,1,Ring 03,[04]-[Difficult],4.61,26:19.49,1579.49,2022/08/27 15:10:30
-129,22,Tower of Versatility,ToV,1,Ring 01B,[04]-[Difficult],4.64,32:59.19,1979.19,2022/05/29 09:49:14
-254,319,Steeple of Bad Cable Management,SoBCM,2,Zone 01B,[04]-[Difficult],4.65,16:00.42,960.42,2026/01/25 10:21:14
-42,96,Tower of Cogs and Steam,ToCaS,2,Zone 03,[04]-[Difficult],4.66,59:20.45,3560.45,2022/12/08 20:30:48
-120,120,Tower of Rock Climbing,ToRC,2,Zone 06,[04]-[Difficult],4.67,34:24.60,2064.60,2023/01/19 20:47:46
-63,115,Tower of Wicked Wedges,ToWW,2,Zone 04,[04]-[Difficult],4.69,49:04.34,2944.34,2023/01/17 18:38:07
-293,94,Tower of Leaning Ledges,ToLL,1,Ring 04,[04]-[Difficult],4.70,10:10.02,610.02,2022/12/02 17:25:17
-275,178,Steeple of Resort In Stasis,SoRIS,1,Ring 04B,[04]-[Difficult],4.71,13:01.09,781.09,2023/08/05 13:32:52
-108,150,Tower of Destructive Fever,ToDF,2,Zone 07,[04]-[Difficult],4.72,36:09.21,2169.21,2023/03/13 21:39:10
-125,273,Tower of You're Late For Work,ToYLFW,1,Ring 08B,[04]-[Difficult],4.73,33:28.63,2008.63,2025/06/14 17:43:33
-124,112,Tower of Bright Serenity,ToBS,2,Zone 05,[04]-[Difficult],4.75,33:41.35,2021.35,2023/01/14 09:35:17
-146,289,Tower of High Power,ToHP,2,Zone 03B,[04]-[Difficult],4.77,30:18.00,1818.00,2025/10/02 14:26:55
-66,161,Tower of A Tetromino Disaster,ToATD,2,Zone 08,[04]-[Difficult],4.78,48:40.58,2920.58,2023/04/15 21:38:41
-107,130,Steeple of Hallucinatory Spectacles,SoHS,2,Zone 03B,[04]-[Difficult],4.80,36:54.71,2214.71,2023/02/04 17:26:24
-135,74,Steeple of Magical Elements,SoME,2,Zone 02B,[04]-[Difficult],4.81,31:42.20,1902.20,2022/11/14 20:25:02
-59,102,Tower of Losing Our Zeal,ToLOZ,1,Ring 05B,[04]-[Difficult],4.86,50:52.83,3052.83,2022/12/29 12:49:25
-280,180,Steeple of Ruinous Abate,SoRA,1,Ring 04B,[04]-[Difficult],4.87,11:55.82,715.82,2023/08/05 15:47:51
-285,46,Tower of Stress,ToS,1,Ring 01,[04]-[Difficult],4.88,11:15.65,675.65,2022/09/17 19:29:05
-123,81,Tower of Dreams and Caverns,ToDaC,2,Zone 02,[04]-[Difficult],4.91,33:55.16,2035.16,2022/11/21 11:23:10
-26,62,Tower of Yearning Success,ToYS,2,Zone 01,[04]-[Difficult],4.92,74:57.46,4497.46,2022/10/23 10:19:25
-143,248,Tower of Arrantly Bodeful Cavern Depths,ToABCD,2,Zone 09,[04]-[Difficult],4.95,30:56.79,1856.79,2024/10/12 14:51:53
-25,164,Tower of X Madness,ToXM,2,Zone 08,[04]-[Difficult],4.96,75:12.07,4512.07,2023/04/18 18:56:20
-226,271,Tower of Pursuit Led Astray,ToPLA,1,Ring 08B,[04]-[Difficult],4.96,18:32.40,1112.40,2025/06/14 10:34:51
-92,123,Citadel of Tricky Situations,CoTS,2,Zone 03,[04]-[Difficult],4.98,40:54.50,2454.50,2023/01/25 17:25:44
-109,113,Tower of Requiring Critical Help,ToRCH,2,Zone 03,[04]-[Difficult],4.98,36:07.85,2167.85,2023/01/14 21:34:45
-198,179,Tower of Ancestral Interference,ToAI,1,Ring 04B,[04]-[Difficult],4.99,23:00.31,1380.31,2023/08/05 14:30:06
-114,86,Tower of Triangular Covering,ToTC,1,Ring 01B,[05]-[Challenging],5.00,35:32.67,2132.67,2022/11/26 16:07:05
-133,212,Tower of Wanting More Time,ToWMT,1,Ring 06B,[05]-[Challenging],5.03,31:48.48,1908.48,2024/03/03 10:36:38
-148,264,Tower of Clandestine Zones,ToCZ,2,Zone 10,[05]-[Challenging],5.05,30:16.12,1816.12,2025/04/05 14:43:12
-190,151,Tower of Growing Madness,ToGM,2,Zone 07,[05]-[Challenging],5.07,24:01.89,1441.89,2023/03/14 23:21:06
-240,316,Steeple of Dungeon Runner,SoDR,2,Zone 01B,[05]-[Challenging],5.09,17:16.14,1036.14,2026/01/24 23:55:31
-73,314,Tower of Weird Energy,ToWE,2,Zone 01B,[05]-[Challenging],5.12,45:43.52,2743.52,2026/01/24 23:21:20
-91,247,Tower of Dusk To Dawn,ToDTD,2,Zone 09,[05]-[Challenging],5.14,41:13.68,2473.68,2024/10/12 14:17:33
-193,181,Steeple of Descendance,SoD,1,Ring 04B,[05]-[Challenging],5.15,23:34.51,1414.51,2023/08/05 16:14:17
-173,49,Tower of Downward Mobility,ToDM,1,Ring 05,[05]-[Challenging],5.17,26:34.70,1594.70,2022/09/25 10:41:41
-151,165,Tower of Galactic Voyage,ToGV,2,Zone 08,[05]-[Challenging],5.18,29:43.23,1783.23,2023/04/19 19:10:14
-70,121,Tower of Conflicting Frontiers,ToCF,2,Zone 06,[05]-[Challenging],5.19,46:51.01,2811.01,2023/01/20 21:54:44
-244,38,Tower of Screen Punching,ToSP,1,Ring 01,[05]-[Challenging],5.20,17:03.97,1023.97,2022/08/21 21:21:22
-274,139,Tower of Absolute Vexation,ToAV,2,Zone 01,[05]-[Challenging],5.21,13:03.44,783.44,2023/03/04 10:39:37
-278,114,Tower of Dust and Decay,ToDaD,1,Ring 04,[05]-[Challenging],5.22,12:20.66,740.66,2023/01/16 20:15:19
-304,91,Steeple of Crystal Ascension,SoCA,2,Zone 02B,[05]-[Challenging],5.24,8:50.64,530.64,2022/11/29 20:55:56
-58,105,Tower of Voluminous Framework,ToVF,1,Ring 08,[05]-[Challenging],5.25,51:10.99,3070.99,2023/01/10 19:48:28
-61,275,Steeple of After-Life Detention,SoALD,1,Ring 08B,[05]-[Challenging],5.26,50:37.87,3037.87,2025/06/14 19:32:05
-147,250,Tower of Latest Sensation,ToLS,2,Zone 09,[05]-[Challenging],5.27,30:17.80,1817.80,2024/10/13 20:17:18
-105,118,Steeple of Desolate Isles,SoDI,2,Zone 03B,[05]-[Challenging],5.28,36:58.02,2218.02,2023/01/19 19:50:31
-157,122,Tower of Despair,ToD,1,Ring 03,[05]-[Challenging],5.29,29:22.10,1762.10,2023/01/24 23:08:51
-261,108,Tower of Stairs To Spare,ToSTS,2,Zone 05,[05]-[Challenging],5.31,15:01.03,901.03,2023/01/11 17:41:36
-12,265,Tower of Resonant Landscapes,ToRL,2,Zone 10,[05]-[Challenging],5.32,91:01.63,5461.63,2025/04/06 11:08:33
-78,124,Tower of Diverging Layers,ToDL,1,Ring 05B,[05]-[Challenging],5.37,44:17.47,2657.47,2023/01/26 19:53:03
-60,134,"Tower of Break It, Buy It",ToBIBI,2,Zone 06,[05]-[Challenging],5.38,50:52.46,3052.46,2023/02/06 19:49:25
-15,182,Tower of There Is No Tower,ToTINT,1,Ring 04B,[05]-[Challenging],5.42,89:17.60,5357.60,2023/08/05 17:45:05
-29,126,Tower of Twisted Inquisition,ToTI,1,Ring 06,[05]-[Challenging],5.45,72:58.36,4378.36,2023/01/29 22:12:38
-69,132,Tower of Collective Collaboration,ToCC,1,Ring 07,[05]-[Challenging],5.46,46:58.76,2818.76,2023/02/05 12:30:35
-112,35,Steeple of Climbing,SoC,1,Ring 01B,[05]-[Challenging],5.49,35:41.62,2141.62,2022/06/15 15:15:09
-41,133,Tower of Angled Scenery,ToAS,2,Zone 06,[05]-[Challenging],5.54,60:12.34,3612.34,2023/02/05 19:18:30
-187,138,Tower of Menacing Creations,ToMC,2,Zone 03,[05]-[Challenging],5.56,24:36.51,1476.51,2023/02/21 18:58:21
-297,128,Tower of Rage,ToR,1,Ring 01,[05]-[Challenging],5.58,9:55.72,595.72,2023/02/02 20:28:02
-95,142,Tower of Odd Odyssey,ToOO,1,Ring 05B,[05]-[Challenging],5.59,39:31.00,2371.00,2023/03/11 11:57:20
-75,143,Tower of Vibrant Adventures,ToVA,1,Ring 08,[05]-[Challenging],5.60,45:20.76,2720.76,2023/03/11 20:53:57
-81,127,Tower of Feeling Lazy,ToFL,1,Ring 07,[05]-[Challenging],5.60,43:03.83,2583.83,2023/01/31 19:42:56
-127,152,Tower of Cylindrical Extensions,ToCE,2,Zone 07,[05]-[Challenging],5.61,33:15.92,1995.92,2023/03/15 17:29:25
-164,34,Steeple of Flourishing Wastelands,SoFW,1,Ring 02B,[05]-[Challenging],5.61,27:51.91,1671.91,2022/06/14 16:49:48
-169,140,Tower of Falling and Failing,ToFaF,1,Ring 02,[05]-[Challenging],5.61,27:10.54,1630.54,2023/03/05 19:08:36
-113,141,Tower of Pleasant Fantasies,ToPF,2,Zone 02,[05]-[Challenging],5.62,35:39.71,2139.71,2023/03/09 16:51:03
-172,262,Tower of Interstellar Terrarium,ToIT,2,Zone 10,[05]-[Challenging],5.63,26:53.51,1613.51,2025/04/05 12:52:07
-182,279,Steeple of Balloon Commune,SoBC,1,Ring 08B,[05]-[Challenging],5.63,25:06.94,1506.94,2025/06/15 11:59:34
-287,183,Steeple of Guiding Lights,SoGL,1,Ring 04B,[05]-[Challenging],5.66,11:07.62,667.62,2023/08/05 19:21:56
-163,246,Tower of Bonus Level,ToBL,2,Zone 09,[05]-[Challenging],5.68,28:13.56,1693.56,2024/10/12 13:13:01
-93,154,Tower of Traps,ToT,1,Ring 02,[05]-[Challenging],5.71,40:44.25,2444.25,2023/03/19 22:15:26
-137,136,Tower of Obvious Chaos,ToOC,1,Ring 05,[05]-[Challenging],5.72,31:33.04,1893.04,2023/02/11 12:09:57
-44,158,Tower of Slipping and Sliding,ToSaS,2,Zone 02,[05]-[Challenging],5.74,58:28.34,3508.34,2023/04/07 16:53:10
-7,168,Tower of Aamos' Anger,ToAA,1,Ring 08,[05]-[Challenging],5.75,105:07.61,6307.61,2023/05/21 21:34:12
-23,117,Tower of Cyclonic Isles,ToCI,2,Zone 03B,[05]-[Challenging],5.76,77:22.87,4642.87,2023/01/19 19:08:23
-204,175,Steeple of Upright Cliffs,SoUC,2,Zone 03B,[05]-[Challenging],5.78,22:29.12,1349.12,2023/07/28 20:58:45
-282,320,Steeple of Sunken Kingdoms,SoSK,2,Zone 01B,[05]-[Challenging],5.79,11:37.07,697.07,2026/01/25 10:33:45
-8,131,Tower of Deep Darkness,ToDD,1,Ring 02,[05]-[Challenging],5.80,101:53.29,6113.29,2023/02/04 22:55:48
-132,145,Tower of Pure Chroma,ToPC,2,Zone 04,[05]-[Challenging],5.82,31:59.72,1919.72,2023/03/13 17:13:42
-301,116,Steeple of Witch Calamity,SoWC,2,Zone 02B,[05]-[Challenging],5.82,9:03.67,543.67,2023/01/18 20:02:27
-224,135,Steeple of Cliffside Falls,SoCF,2,Zone 03B,[05]-[Challenging],5.83,18:47.48,1127.48,2023/02/10 23:11:58
-241,189,Tower of Shattered Dreams,ToSD,1,Ring 02,[05]-[Challenging],5.84,17:14.55,1034.55,2023/08/27 11:11:54
-49,187,Tower of Distorted Aerodynamics,ToDA,1,Ring 07,[05]-[Challenging],5.85,55:46.14,3346.14,2023/08/17 17:19:51
-9,166,Tower of Hefty Magnitude,ToHM,2,Zone 06,[05]-[Challenging],5.88,101:39.69,6099.69,2023/05/07 11:18:33
-251,190,Tower of White Space,ToWS,2,Zone 07,[05]-[Challenging],5.88,16:21.97,981.97,2023/08/31 16:50:47
-246,274,Steeple of Two Minute Noodles,SoTMN,1,Ring 08B,[05]-[Challenging],5.89,16:56.60,1016.60,2025/06/14 18:17:24
-205,184,Steeple of Xenial Abyss,SoXA,1,Ring 04B,[05]-[Challenging],5.90,22:21.78,1341.78,2023/08/05 20:54:53
-48,144,Tower of Wanting Extra Levels,ToWEL,2,Zone 01,[05]-[Challenging],5.91,57:15.61,3435.61,2023/03/12 19:00:26
-96,277,Steeple of The Manufactured Monstrosity,SoTMM,1,Ring 08B,[05]-[Challenging],5.92,39:15.63,2355.63,2025/06/15 09:48:10
-80,266,Tower of Valiant Verges,ToVV,2,Zone 10,[05]-[Challenging],5.95,43:18.22,2598.22,2025/04/06 16:02:08
-122,188,Tower of Flame Restoration,ToFR,2,Zone 08,[05]-[Challenging],5.96,33:59.56,2039.56,2023/08/26 11:32:09
-28,170,Tower of Unhealthy Escalation,ToUE,2,Zone 05,[05]-[Challenging],5.99,73:15.99,4395.99,2023/06/29 11:54:13
-248,125,Tower of Perilous Antipode,ToPA,1,Ring 02B,[06]-[Intense],6.00,16:50.91,1010.91,2023/01/27 17:15:28
-87,249,Tower of Sugar Rush Deluxe,ToSRD,2,Zone 09,[06]-[Intense],6.01,42:18.59,2538.59,2024/10/12 15:36:29
-119,129,Tower of Impossible Expectations,ToIE,1,Ring 01,[06]-[Intense],6.01,34:28.86,2068.86,2023/02/03 22:59:34
-40,157,Tower of Mechanically Induced Mayhem,ToMIM,2,Zone 04,[06]-[Intense],6.02,61:35.72,3695.72,2023/04/05 16:15:41
-174,185,Steeple of Wicked Grotto,SoWG,1,Ring 04B,[06]-[Intense],6.02,26:34.02,1594.02,2023/08/05 21:25:51
-185,110,Steeple of Buoyant Automations,SoBA,1,Ring 02B,[06]-[Intense],6.03,24:50.80,1490.80,2023/01/12 17:41:23
-281,192,Tower of Floral Fury,ToFF,1,Ring 05,[06]-[Intense],6.05,11:44.68,704.68,2023/09/02 18:10:32
-32,177,Citadel of Twists and Weirdness,CoTaW,2,Zone 06,[06]-[Intense],6.06,69:52.36,4192.36,2023/07/31 20:10:29
-99,193,Tower of Traversing The Tropics,ToTTT,2,Zone 03B,[06]-[Intense],6.06,38:30.72,2310.72,2023/09/03 10:43:53
-138,213,Tower of Shadowy Radiance,ToSR,1,Ring 06B,[06]-[Intense],6.08,31:29.15,1889.15,2024/03/03 19:25:17
-27,173,Tower of Extraordinary Adventures,ToEA,1,Ring 05,[06]-[Intense],6.12,74:05.30,4445.30,2023/07/09 16:05:22
-231,232,Tower of A Depressing Future,ToADF,1,Ring 06,[06]-[Intense],6.12,18:06.30,1086.30,2024/07/20 12:34:58
-1,196,Citadel of Heights and Depths,CoHaD,1,Ring 03,[06]-[Intense],6.13,221:10.20,13270.20,2023/09/23 17:57:32
-72,219,Tower of Quirky Contraptions,ToQC,2,Zone 03,[06]-[Intense],6.18,46:13.10,2773.10,2024/05/19 13:00:05
-102,109,Steeple of Magical Collaborations,SoMC,2,Zone 02B,[06]-[Intense],6.22,37:28.22,2248.22,2023/01/12 16:48:57
-170,237,Tower of Ultimately Terrifying,ToUT,2,Zone 01,[06]-[Intense],6.23,27:00.70,1620.70,2024/08/01 00:07:31
-51,171,Tower of Hazardous Laddering,ToHL,2,Zone 06,[06]-[Intense],6.25,55:05.15,3305.15,2023/07/09 09:58:53
-180,224,Tower of Whisking It All,ToWIA,1,Ring 06B,[06]-[Intense],6.26,25:30.17,1530.17,2024/06/19 11:03:03
-90,153,Tower of Yore,ToY,2,Zone 07,[06]-[Intense],6.27,41:20.26,2480.26,2023/03/18 10:28:10
-54,104,Tower of Orientating Oscilating Opinions,ToOOO,1,Ring 07,[06]-[Intense],6.29,53:09.89,3189.89,2023/01/10 18:07:47
-203,321,Tower of Fixture Park,ToFP,2,Zone 01B,[06]-[Intense],6.30,22:33.04,1353.04,2026/01/25 12:01:21
-242,203,Tower of Intense Solar Chaos,ToISC,1,Ring 06,[06]-[Intense],6.30,17:13.65,1033.65,2023/11/16 19:55:08
-3,276,"Tower of The Umbrella, The User",ToTUTU,1,Ring 08B,[06]-[Intense],6.32,114:39.27,6879.27,2025/06/14 22:00:30
-130,217,Tower of Infuriating Obstacles,ToIO,2,Zone 03,[06]-[Intense],6.32,32:29.53,1949.53,2024/05/18 19:31:05
-217,223,Steeple of Dusty Dunes,SoDD,2,Zone 03B,[06]-[Intense],6.32,19:49.04,1189.04,2024/06/14 21:09:43
-6,99,Tower of Heiwana Kaze,ToHK,2,Zone 05,[06]-[Intense],6.33,105:44.50,6344.50,2022/12/27 13:27:17
-98,205,Tower of Horrifying Experiences,ToHE,2,Zone 05,[06]-[Intense],6.33,38:36.73,2316.73,2023/11/29 17:15:00
-266,186,Tower of One Nine,ToON,2,Zone 08,[06]-[Intense],6.33,14:19.70,859.70,2023/08/17 10:00:39
-243,229,Steeple of Huge Pain,SoHP,1,Ring 01B,[06]-[Intense],6.35,17:10.67,1030.67,2024/07/16 16:00:49
-101,280,Tower of Infiltrated Ruins,ToIR,1,Ring 08B,[06]-[Intense],6.36,37:58.07,2278.07,2025/06/15 12:44:49
-106,202,Tower of Increasing Stress,ToIS,1,Ring 01B,[06]-[Intense],6.37,36:57.04,2217.04,2023/10/16 20:41:01
-50,159,Citadel of Green Stuff,CoGS,2,Zone 02,[06]-[Intense],6.39,55:42.80,3342.80,2023/04/08 15:36:26
-165,176,Tower of Watts,ToW,2,Zone 06,[06]-[Intense],6.40,27:51.03,1671.03,2023/07/31 12:37:23
-192,281,Steeple of Itsy Bitsy,SoIB,1,Ring 08B,[06]-[Intense],6.40,23:49.72,1429.72,2025/06/16 10:56:00
-104,233,Tower of Whirl of Winds,ToWoW,1,Ring 06B,[06]-[Intense],6.42,37:07.15,2227.15,2024/07/20 22:25:16
-276,174,Tower of Table Flipping,ToTF,1,Ring 02,[06]-[Intense],6.44,12:49.13,769.13,2023/07/28 16:43:08
-150,67,Tower of Holy Flip,ToHF,1,Ring 04,[06]-[Intense],6.45,29:46.31,1786.31,2022/11/05 21:07:37
-158,218,Tower of Cruel and Unusual Punishment,ToCaUP,2,Zone 03,[06]-[Intense],6.46,29:19.44,1759.44,2024/05/19 09:45:59
-268,172,Tower of Tokyo Heights,ToTH,1,Ring 05,[06]-[Intense],6.46,14:16.48,856.48,2023/07/09 14:34:06
-171,206,Tower of Cone Mesh Climbing,ToCMC,2,Zone 07,[06]-[Intense],6.48,26:55.39,1615.39,2023/12/01 20:04:57
-39,228,Citadel of Constant Heart Stopping,CoCHS,1,Ring 08,[06]-[Intense],6.49,62:42.24,3762.24,2024/07/15 19:40:52
-52,169,Tower of Extraterrestrial Enchantment,ToEE,2,Zone 02,[06]-[Intense],6.49,54:59.66,3299.66,2023/06/24 14:40:32
-255,220,Tower of Great Overcomings,ToGO,1,Ring 09,[06]-[Intense],6.49,15:44.57,944.57,2024/05/24 21:57:02
-20,191,Citadel of Laptop Splitting,CoLS,1,Ring 01,[06]-[Intense],6.50,83:06.06,4986.06,2023/09/02 16:35:25
-5,207,Tower of Guided Trials,ToGT,2,Zone 05,[06]-[Intense],6.52,107:11.47,6431.47,2023/12/09 20:33:55
-100,231,Steeple of Underlying Breezes,SoUB,2,Zone 03B,[06]-[Intense],6.54,38:05.59,2285.59,2024/07/18 19:19:03
-179,240,"Tower of Never Giving Up, Ever",ToNGUE,1,Ring 07,[06]-[Intense],6.54,25:37.32,1537.32,2024/08/08 16:54:05
-97,225,Tower of Largely Limited Luminance,ToLLL,1,Ring 06B,[06]-[Intense],6.55,38:42.38,2322.38,2024/06/21 16:28:42
-38,282,Tower of A Disillusioned Existence,ToADE,1,Ring 08B,[06]-[Intense],6.57,63:00.18,3780.18,2025/06/16 12:01:09
-186,198,Tower of Shallow Waters,ToSW,1,Ring 04B,[06]-[Intense],6.64,24:44.97,1484.97,2023/09/29 20:55:56
-149,226,Tower of Never Ending Fun,ToNEF,2,Zone 08,[06]-[Intense],6.65,30:03.05,1803.05,2024/07/03 13:40:12
-43,243,Tower of Uneasy Scaling,ToUS,1,Ring 08,[06]-[Intense],6.66,58:32.02,3512.02,2024/08/16 11:37:33
-207,322,Tower of Nerves of Steel,ToNoS,2,Zone 01B,[06]-[Intense],6.66,22:06.54,1326.54,2026/01/25 17:16:38
-128,235,Tower of Dispersed Rooms,ToDR,1,Ring 06,[06]-[Intense],6.68,33:04.66,1984.66,2024/07/21 17:23:42
-62,200,Tower of Flustering Sections,ToFS,1,Ring 06,[06]-[Intense],6.71,49:15.61,2955.61,2023/10/03 16:58:49
-159,201,Steeple of Involuntary Isolation,SoII,1,Ring 04B,[06]-[Intense],6.71,28:38.31,1718.31,2023/10/03 17:42:36
-10,251,Tower of Nothing New,ToNN,2,Zone 09,[06]-[Intense],6.73,97:10.66,5830.66,2024/10/14 20:08:54
-30,160,Tower of Witchcraft and Wizardry,ToWaW,1,Ring 05B,[06]-[Intense],6.74,70:03.33,4203.33,2023/04/09 16:22:34
-37,272,Tower of Warranted Retribution,ToWR,1,Ring 08B,[06]-[Intense],6.75,65:09.65,3909.65,2025/06/14 17:00:03
-247,258,Tower of Dangerous Expeditions,ToDE,1,Ring 01B,[06]-[Intense],6.75,16:54.69,1014.69,2025/02/12 13:09:31
-140,259,Tower of Arcanium Zenturing,ToAZ,2,Zone 02,[06]-[Intense],6.76,31:21.73,1881.73,2025/02/12 14:29:50
-71,208,Tower of Swift and Precise Sections,ToSaPS,2,Zone 07,[06]-[Intense],6.78,46:25.88,2785.88,2023/12/23 09:56:59
-209,216,Tower of Manic Lows,ToML,2,Zone 08,[06]-[Intense],6.78,21:33.19,1293.19,2024/05/15 19:31:35
-13,267,Tower of Expecting The Unexpected,ToETU,2,Zone 10,[06]-[Intense],6.79,90:24.21,5424.21,2025/04/08 23:58:46
-24,137,Citadel of Corporate Enterprise,CoCE,2,Zone 05,[06]-[Intense],6.79,75:14.08,4514.08,2023/02/20 12:22:34
-33,238,Citadel of Uneasiness,CoU,1,Ring 04,[06]-[Intense],6.80,68:37.46,4117.46,2024/08/01 16:30:53
-121,236,Tower of Shifting Slopes,ToSS,2,Zone 04,[06]-[Intense],6.80,34:20.29,2060.29,2024/07/23 11:27:25
-86,254,Tower of Furious Chicken Brawl,ToFCB,2,Zone 09,[06]-[Intense],6.86,42:22.56,2542.56,2024/10/26 11:38:46
-84,195,Tower of Tenebrous Depths,ToTD,1,Ring 04B,[06]-[Intense],6.90,42:25.98,2545.98,2023/09/19 19:28:02
-142,252,Tower of Falling Up,ToFU,2,Zone 09,[06]-[Intense],6.93,31:03.32,1863.32,2024/10/21 22:36:34
-11,324,Citadel of Treachery,CoT,2,Zone 01B,[06]-[Intense],6.95,95:11.27,5711.27,2026/02/06 21:14:28
-17,155,Citadel of Weird Nostalgia,CoWN,1,Ring 01B,[06]-[Intense],6.96,87:49.00,5269.00,2023/03/21 21:24:03
-238,242,Tower of Anticlimactic Outcomes,ToAO,2,Zone 05,[06]-[Intense],6.96,17:28.09,1048.09,2024/08/14 22:19:00
-4,204,Tower of Oblivion,ToO,1,Ring 04,[06]-[Intense],6.97,107:26.78,6446.78,2023/11/21 19:50:37
-83,230,Tower of Compact Spaces,ToCS,1,Ring 05B,[06]-[Intense],6.98,42:40.87,2560.87,2024/07/18 12:05:46
-166,295,Tower of Triangular Terror,ToTT,2,Zone 02,[06]-[Intense],6.98,27:45.80,1665.80,2025/10/24 21:30:27
-269,268,Tower of Mach Nine,ToMN,2,Zone 10,[06]-[Intense],6.99,14:00.83,840.83,2025/04/09 21:07:06
-55,256,Tower of Tallying Every Mistake,ToTEM,1,Ring 05B,[07]-[Remorseless],7.00,52:45.47,3165.47,2024/11/25 19:42:43
-85,253,Tower of Eye Candy,ToEC,2,Zone 09,[07]-[Remorseless],7.01,42:22.99,2542.99,2024/10/25 20:45:08
-208,255,Tower of Triple Jeopardy,ToTJ,1,Ring 05B,[07]-[Remorseless],7.01,21:37.31,1297.31,2024/10/27 15:05:03
-126,215,Tower of Forever-Sleeping Flower,ToFSF,1,Ring 06B,[07]-[Remorseless],7.02,33:22.16,2002.16,2024/04/16 23:52:48
-56,221,Tower of Icy Adventures,ToIA,2,Zone 02B,[07]-[Remorseless],7.03,51:53.62,3113.62,2024/05/24 22:59:25
-258,167,Tower of Beat Block Berserk,ToBBB,1,Ring 09,[07]-[Remorseless],7.03,15:28.98,928.98,2023/05/10 21:03:52
-156,199,Tower of Overbearing Vertigo,ToOV,2,Zone 08,[07]-[Remorseless],7.04,29:28.16,1768.16,2023/10/01 09:51:48
-202,234,Tower of Climactic Beats,ToCB,1,Ring 06B,[07]-[Remorseless],7.06,22:42.11,1362.11,2024/07/21 12:07:36
-18,227,Citadel of Pyramid Escapades,CoPE,2,Zone 08,[07]-[Remorseless],7.07,83:51.96,5031.96,2024/07/05 10:55:22
-249,197,Tower of Sakura Bloom,ToSB,2,Zone 06,[07]-[Remorseless],7.07,16:24.34,984.34,2023/09/25 20:26:44
-213,261,Tower of Nonsensical Platforms,ToNP,1,Ring 04,[07]-[Remorseless],7.08,20:33.54,1233.54,2025/02/22 15:05:06
-76,156,Tower of True Skill,ToTS,1,Ring 01,[07]-[Remorseless],7.09,45:10.08,2710.08,2023/04/04 11:26:37
-184,194,Tower of Niflheim,ToN,1,Ring 06,[07]-[Remorseless],7.10,24:55.10,1495.10,2023/09/09 10:53:57
-46,263,Tower of One Two Three Four,ToOTTF,2,Zone 10,[07]-[Remorseless],7.12,57:49.32,3469.32,2025/04/05 14:04:36
-2,222,Tower of Great Displeasure,ToGD,2,Zone 02,[07]-[Remorseless],7.17,127:18.67,7638.67,2024/05/25 13:27:14
-74,239,Tower of Really Nasty Ideas,ToRNI,2,Zone 01,[07]-[Remorseless],7.19,45:21.47,2721.47,2024/08/07 19:33:27
-168,307,Tower of Questionable Trials,ToQT,1,Ring 09,[07]-[Remorseless],7.23,27:14.08,1634.08,2025/11/01 18:02:27
-19,269,Tower of The Despondent Fortress,ToTDF,2,Zone 10,[07]-[Remorseless],7.24,83:35.86,5015.86,2025/04/12 14:07:57
-196,257,Tower of Funky Grooves,ToFG,2,Zone 04,[07]-[Remorseless],7.29,23:10.55,1390.55,2025/02/11 09:47:00
-110,284,Tower of Fleeing From Everything Ending,ToFFEE,1,Ring 08B,[07]-[Remorseless],7.32,36:00.87,2160.87,2025/06/27 19:13:47
-57,323,Tower of Geometric Kinetics,ToGK,2,Zone 01B,[07]-[Remorseless],7.33,51:27.34,3087.34,2026/01/25 18:29:11
-22,214,Citadel of Scythe Recognition,CoSR,1,Ring 06,[07]-[Remorseless],7.34,77:58.24,4678.24,2024/03/29 21:52:24
-65,244,Steeple of Midnight Acropolis,SoMA,1,Ring 04B,[07]-[Remorseless],7.34,48:58.16,2938.16,2024/09/09 00:38:42
-36,283,Tower of House Without Home,ToHWH,1,Ring 08B,[07]-[Remorseless],7.35,66:59.75,4019.75,2025/06/22 23:23:51
-53,241,Tower of Time and Space Manipulation,ToTaSM,2,Zone 08,[07]-[Remorseless],7.38,54:37.61,3277.61,2024/08/09 17:54:47
-253,270,Tower of Massive Overheating,ToMO,2,Zone 06,[07]-[Remorseless],7.42,16:12.05,972.05,2025/05/03 19:54:15
-298,245,Steeple of Malignant Blight,SoMB,1,Ring 04B,[07]-[Remorseless],7.45,9:41.50,581.50,2024/10/11 19:44:35
-136,325,Tower of Petrichor Resentment,ToPR,2,Zone 06,[07]-[Remorseless],7.47,31:33.07,1893.07,2026/06/20 12:26:34
-34,293,Tower of Prismatic Instability,ToPI,2,Zone 10,[07]-[Remorseless],7.52,68:33.65,4113.65,2025/10/05 14:00:55
-162,285,Tower of Yearning Victory,ToYV,1,Ring 07,[07]-[Remorseless],7.67,28:14.29,1694.29,2025/07/19 22:20:12
-161,308,Tower of Uncontrollable Ire,ToUI,2,Zone 07,[07]-[Remorseless],7.71,28:27.54,1707.54,2025/11/07 19:31:38
-206,294,Tower of No Return,ToNR,2,Zone 08,[07]-[Remorseless],7.73,22:12.09,1332.09,2025/10/11 19:04:55
-228,286,Tower of Rhythm Heaven,ToRH,1,Ring 06B,[07]-[Remorseless],7.74,18:22.68,1102.68,2025/08/12 23:42:03
-144,287,Tower of Mechanical Disarray,ToMD,1,Ring 06B,[07]-[Remorseless],7.79,30:28.34,1828.34,2025/08/31 16:05:15
-21,288,Tower of Power Laws,ToPL,2,Zone 10,[07]-[Remorseless],7.86,80:53.58,4853.58,2025/09/23 10:47:31
+RANK,ORDER,TOWER,ACRONYM,WORLD,AREA,DIFFICULTY,NUM,TIME,TIME [s],COMPLETION DATE,NOTES
+1,196,Citadel of Heights and Depths,CoHaD,1,Ring 03,06 - Intense,6.13,221:10.20,13270.20,2023-09-23 17:57:32,
+2,222,Tower of Great Displeasure,ToGD,2,Zone 02,07 - Remorseless,7.17,127:18.67,7638.67,2024-05-25 13:27:14,
+3,276,"Tower of The Umbrella, The User",ToTUTU,1,Ring 08: The Starlit Archives,06 - Intense,6.32,114:39.27,6879.27,2025-06-14 22:00:30,
+4,204,Tower of Oblivion,ToO,1,Ring 04,06 - Intense,6.97,107:26.78,6446.78,2023-11-21 19:50:37,
+5,207,Tower of Guided Trials,ToGT,2,Zone 05,06 - Intense,6.52,107:11.47,6431.47,2023-12-09 20:33:55,
+6,99,Tower of Heiwana Kaze,ToHK,2,Zone 05,06 - Intense,6.33,105:44.50,6344.50,2022-12-27 13:27:17,
+7,168,Tower of Aamos' Anger,ToAA,1,Ring 08,05 - Challenging,5.75,105:07.61,6307.61,2023-05-21 21:34:12,
+8,131,Tower of Deep Darkness,ToDD,1,Ring 02,05 - Challenging,5.80,101:53.29,6113.29,2023-02-04 22:55:48,
+9,166,Tower of Hefty Magnitude,ToHM,2,Zone 06,05 - Challenging,5.88,101:39.69,6099.69,2023-05-07 11:18:33,
+10,251,Tower of Nothing New,ToNN,2,Zone 09,06 - Intense,6.73,97:10.66,5830.66,2024-10-14 20:08:54,
+11,324,Citadel of Treachery,CoT,2,Zone 01: Steelspire Horizon,06 - Intense,6.95,95:11.27,5711.27,2026-02-06 21:14:28,
+12,265,Tower of Resonant Landscapes,ToRL,2,Zone 10,05 - Challenging,5.32,91:01.63,5461.63,2025-04-06 11:08:33,
+13,267,Tower of Expecting The Unexpected,ToETU,2,Zone 10,06 - Intense,6.79,90:24.21,5424.21,2025-04-08 23:58:46,
+14,98,Tower of Sovereign Travelling,ToST,2,Zone 05,03 - Hard,3.40,89:37.12,5377.12,2022-12-13 19:53:36,
+15,182,Tower of There Is No Tower,ToTINT,1,Ring 04: Silent Abyss,05 - Challenging,5.42,89:17.60,5357.60,2023-08-05 17:45:05,
+16,300,Citadel of Victory,CoV,1,Ring 00,04 - Difficult,4.25,88:57.33,5337.33,2025-10-27 19:58:00,
+17,155,Citadel of Weird Nostalgia,CoWN,1,Ring 01: Forgotten Ridge,06 - Intense,6.96,87:49.00,5269.00,2023-03-21 21:24:03,Have not beaten the revamp
+18,227,Citadel of Pyramid Escapades,CoPE,2,Zone 08,07 - Remorseless,7.07,83:51.96,5031.96,2024-07-05 10:55:22,
+19,269,Tower of The Despondent Fortress,ToTDF,2,Zone 10,07 - Remorseless,7.24,83:35.86,5015.86,2025-04-12 14:07:57,
+20,191,Citadel of Laptop Splitting,CoLS,1,Ring 01,06 - Intense,6.50,83:06.06,4986.06,2023-09-02 16:35:25,
+21,288,Tower of Power Laws,ToPL,2,Zone 10,07 - Remorseless,7.86,80:53.58,4853.58,2025-09-23 10:47:31,Current Hardest
+22,214,Citadel of Scythe Recognition,CoSR,1,Ring 06,07 - Remorseless,7.34,77:58.24,4678.24,2024-03-29 21:52:24,
+23,117,Tower of Cyclonic Isles,ToCI,2,Zone 03: Paradise Atoll,05 - Challenging,5.76,77:22.87,4642.87,2023-01-19 19:08:23,
+24,137,Citadel of Corporate Enterprise,CoCE,2,Zone 05,06 - Intense,6.79,75:14.08,4514.08,2023-02-20 12:22:34,
+25,164,Tower of X Madness,ToXM,2,Zone 08,04 - Difficult,4.96,75:12.07,4512.07,2023-04-18 18:56:20,
+26,62,Tower of Yearning Success,ToYS,2,Zone 01,04 - Difficult,4.92,74:57.46,4497.46,2022-10-23 10:19:25,
+27,173,Tower of Extraordinary Adventures,ToEA,1,Ring 05,06 - Intense,6.12,74:05.30,4445.30,2023-07-09 16:05:22,
+28,170,Tower of Unhealthy Escalation,ToUE,2,Zone 05,05 - Challenging,5.99,73:15.99,4395.99,2023-06-29 11:54:13,
+29,126,Tower of Twisted Inquisition,ToTI,1,Ring 06,05 - Challenging,5.45,72:58.36,4378.36,2023-01-29 22:12:38,
+30,160,Tower of Witchcraft and Wizardry,ToWaW,1,Ring 05: Lost River,06 - Intense,6.74,70:03.33,4203.33,2023-04-09 16:22:34,
+31,103,Citadel of Inside Situations,CoIS,1,Ring 05: Lost River,04 - Difficult,4.60,70:00.12,4200.12,2023-01-01 01:43:06,First Citadel
+32,177,Citadel of Twists and Weirdness,CoTaW,2,Zone 06,06 - Intense,6.06,69:52.36,4192.36,2023-07-31 20:10:29,
+33,238,Citadel of Uneasiness,CoU,1,Ring 04,06 - Intense,6.80,68:37.46,4117.46,2024-08-01 16:30:53,
+34,293,Tower of Prismatic Instability,ToPI,2,Zone 10,07 - Remorseless,7.52,68:33.65,4113.65,2025-10-05 14:00:55,
+35,59,Tower of Ground Level Ascension,ToGLA,2,Zone 02,03 - Hard,3.57,67:17.90,4037.90,2022-10-16 09:30:41,
+36,283,Tower of House Without Home,ToHWH,1,Ring 08: The Starlit Archives,07 - Remorseless,7.35,66:59.75,4019.75,2025-06-22 23:23:51,
+37,272,Tower of Warranted Retribution,ToWR,1,Ring 08: The Starlit Archives,06 - Intense,6.75,65:09.65,3909.65,2025-06-14 17:00:03,
+38,327,Tower of Insanely Innovative Ideas,ToIII,1,Ring 08,06 - Intense,6.99,64:52.87,3892.87,2026-08-04 22:10:42,
+39,282,Tower of A Disillusioned Existence,ToADE,1,Ring 08: The Starlit Archives,06 - Intense,6.57,63:00.18,3780.18,2025-06-16 12:01:09,
+40,228,Citadel of Constant Heart Stopping,CoCHS,1,Ring 08,06 - Intense,6.49,62:42.24,3762.24,2024-07-15 19:40:52,
+41,338,Tower of Incoming Danger,ToID,2,Zone 05: Dark Side of the Moon,06 - Intense,6.64,62:30.58,3750.58,2026-08-23 17:04:35,
+42,157,Tower of Mechanically Induced Mayhem,ToMIM,2,Zone 04,06 - Intense,6.02,61:35.72,3695.72,2023-04-05 16:15:41,
+43,133,Tower of Angled Scenery,ToAS,2,Zone 06,05 - Challenging,5.54,60:12.34,3612.34,2023-02-05 19:18:30,
+44,96,Tower of Cogs and Steam,ToCaS,2,Zone 03,04 - Difficult,4.66,59:20.45,3560.45,2022-12-08 20:30:48,
+45,243,Tower of Uneasy Scaling,ToUS,1,Ring 08,06 - Intense,6.66,58:32.02,3512.02,2024-08-16 11:37:33,
+46,158,Tower of Slipping and Sliding,ToSaS,2,Zone 02,05 - Challenging,5.74,58:28.34,3508.34,2023-04-07 16:53:10,
+47,80,Tower of Rushed Building,ToRB,1,Ring 07,04 - Difficult,4.58,58:04.22,3484.22,2022-11-20 17:09:47,
+48,263,Tower of One Two Three Four,ToOTTF,2,Zone 10,07 - Remorseless,7.12,57:49.32,3469.32,2025-04-05 14:04:36,
+49,89,Tower of Elevator Travelling,ToET,2,Zone 04,04 - Difficult,4.51,57:29.74,3449.74,2022-11-26 23:23:00,
+50,144,Tower of Wanting Extra Levels,ToWEL,2,Zone 01,05 - Challenging,5.91,57:15.61,3435.61,2023-03-12 19:00:26,
+51,341,Tower of Mind Games,ToMG,2,Zone 05: Dark Side of the Moon,07 - Remorseless,7.67,56:00.86,3360.86,2026-09-02 19:08:45,
+52,187,Tower of Distorted Aerodynamics,ToDA,1,Ring 07,05 - Challenging,5.85,55:46.14,3346.14,2023-08-17 17:19:51,
+53,159,Citadel of Green Stuff,CoGS,2,Zone 02,06 - Intense,6.39,55:42.80,3342.80,2023-04-08 15:36:26,
+54,171,Tower of Hazardous Laddering,ToHL,2,Zone 06,06 - Intense,6.25,55:05.15,3305.15,2023-07-09 09:58:53,
+55,169,Tower of Extraterrestrial Enchantment,ToEE,2,Zone 02,06 - Intense,6.49,54:59.66,3299.66,2023-06-24 14:40:32,
+56,241,Tower of Time and Space Manipulation,ToTaSM,2,Zone 08,07 - Remorseless,7.38,54:37.61,3277.61,2024-08-09 17:54:47,
+57,104,Tower of Orientating Oscilating Opinions,ToOOO,1,Ring 07,06 - Intense,6.29,53:09.89,3189.89,2023-01-10 18:07:47,
+58,256,Tower of Tallying Every Mistake,ToTEM,1,Ring 05: Lost River,07 - Remorseless,7.00,52:45.47,3165.47,2024-11-25 19:42:43,
+59,328,Tower of Big Blocky Beefy Buttons,ToBBBB,2,Zone 09,07 - Remorseless,7.70,52:21.24,3141.24,2026-08-15 09:00:35,
+60,221,Tower of Icy Adventures,ToIA,2,Zone 02: Arcane Area,07 - Remorseless,7.03,51:53.62,3113.62,2024-05-24 22:59:25,
+61,323,Tower of Geometric Kinetics,ToGK,2,Zone 01: Steelspire Horizon,07 - Remorseless,7.33,51:27.34,3087.34,2026-01-25 18:29:11,
+62,105,Tower of Voluminous Framework,ToVF,1,Ring 08,05 - Challenging,5.25,51:10.99,3070.99,2023-01-10 19:48:28,Beaten when it was Tower of Insult To Injury
+63,102,Tower of Losing Our Zeal,ToLOZ,1,Ring 05: Lost River,04 - Difficult,4.86,50:52.83,3052.83,2022-12-29 12:49:25,
+64,134,"Tower of Break It, Buy It",ToBIBI,2,Zone 06,05 - Challenging,5.38,50:52.46,3052.46,2023-02-06 19:49:25,
+65,275,Steeple of After-Life Detention,SoALD,1,Ring 08: The Starlit Archives,05 - Challenging,5.26,50:37.87,3037.87,2025-06-14 19:32:05,
+66,200,Tower of Flustering Sections,ToFS,1,Ring 06,06 - Intense,6.71,49:15.61,2955.61,2023-10-03 16:58:49,
+67,115,Tower of Wicked Wedges,ToWW,2,Zone 04,04 - Difficult,4.69,49:04.34,2944.34,2023-01-17 18:38:07,
+68,337,Tower of Questions,ToQ,2,Zone 05: Dark Side of the Moon,07 - Remorseless,7.21,49:01.56,2941.56,2026-08-23 16:00:57,
+69,5,Tower of Killjoys,ToK,1,Ring 01,03 - Hard,3.47,48:59.37,2939.37,2022-05-14 13:09:16,
+70,244,Steeple of Midnight Acropolis,SoMA,1,Ring 04: Silent Abyss,07 - Remorseless,7.34,48:58.16,2938.16,2024-09-09 00:38:42,
+71,161,Tower of A Tetromino Disaster,ToATD,2,Zone 08,04 - Difficult,4.78,48:40.58,2920.58,2023-04-15 21:38:41,
+72,111,Tower of Mild Agitation,ToMA,2,Zone 03,04 - Difficult,4.59,47:32.19,2852.19,2023-01-13 17:50:13,
+73,90,Tower of Dimensional Hopping,ToDH,2,Zone 03,04 - Difficult,4.38,47:06.59,2826.59,2022-11-28 20:24:39,
+74,132,Tower of Collective Collaboration,ToCC,1,Ring 07,05 - Challenging,5.46,46:58.76,2818.76,2023-02-05 12:30:35,
+75,121,Tower of Conflicting Frontiers,ToCF,2,Zone 06,05 - Challenging,5.19,46:51.01,2811.01,2023-01-20 21:54:44,
+76,208,Tower of Swift and Precise Sections,ToSaPS,2,Zone 07,06 - Intense,6.78,46:25.88,2785.88,2023-12-23 09:56:59,
+77,219,Tower of Quirky Contraptions,ToQC,2,Zone 03,06 - Intense,6.18,46:13.10,2773.10,2024-05-19 13:00:05,
+78,314,Tower of Weird Energy,ToWE,2,Zone 01: Steelspire Horizon,05 - Challenging,5.12,45:43.52,2743.52,2026-01-24 23:21:20,
+79,239,Tower of Really Nasty Ideas,ToRNI,2,Zone 01,07 - Remorseless,7.19,45:21.47,2721.47,2024-08-07 19:33:27,
+80,143,Tower of Vibrant Adventures,ToVA,1,Ring 08,05 - Challenging,5.60,45:20.76,2720.76,2023-03-11 20:53:57,
+81,156,Tower of True Skill,ToTS,1,Ring 01,07 - Remorseless,7.09,45:10.08,2710.08,2023-04-04 11:26:37,
+82,85,Tower of Contractual Obligations,ToCO,2,Zone 01,04 - Difficult,4.46,45:07.84,2707.84,2022-11-25 12:41:27,
+83,124,Tower of Diverging Layers,ToDL,1,Ring 05: Lost River,05 - Challenging,5.37,44:17.47,2657.47,2023-01-26 19:53:03,"Rebeat, original time not recorded"
+84,18,Tower of Funny Thoughts,ToFT,1,Ring 03,01 - Easy,1.70,44:15.40,2655.40,2022-05-20 20:19:26,Revamp
+85,266,Tower of Valiant Verges,ToVV,2,Zone 10,05 - Challenging,5.95,43:18.22,2598.22,2025-04-06 16:02:08,
+86,127,Tower of Feeling Lazy,ToFL,1,Ring 07,05 - Challenging,5.60,43:03.83,2583.83,2023-01-31 19:42:56,
+87,42,Tower of Deep Sighing,ToDS,1,Ring 03,02 - Medium,2.83,43:02.90,2582.90,2022-08-30 20:00:31,
+88,230,Tower of Compact Spaces,ToCS,1,Ring 05: Lost River,06 - Intense,6.98,42:40.87,2560.87,2024-07-18 12:05:46,
+89,195,Tower of Tenebrous Depths,ToTD,1,Ring 04: Silent Abyss,06 - Intense,6.90,42:25.98,2545.98,2023-09-19 19:28:02,
+90,253,Tower of Eye Candy,ToEC,2,Zone 09,07 - Remorseless,7.01,42:22.99,2542.99,2024-10-25 20:45:08,
+91,254,Tower of Furious Chicken Brawl,ToFCB,2,Zone 09,06 - Intense,6.86,42:22.56,2542.56,2024-10-26 11:38:46,
+92,249,Tower of Sugar Rush Deluxe,ToSRD,2,Zone 09,06 - Intense,6.01,42:18.59,2538.59,2024-10-12 15:36:29,
+93,107,Tower of Needing Basic Aptitude,ToNBA,1,Ring 08,03 - Hard,3.90,42:05.98,2525.98,2023-01-11 17:12:33,
+94,278,Tower of Lethean Recollection,ToLR,1,Ring 08: The Starlit Archives,04 - Difficult,4.13,41:29.84,2489.84,2025-06-15 11:07:56,
+95,153,Tower of Yore,ToY,2,Zone 07,06 - Intense,6.27,41:20.26,2480.26,2023-03-18 10:28:10,
+96,247,Tower of Dusk To Dawn,ToDTD,2,Zone 09,05 - Challenging,5.14,41:13.68,2473.68,2024-10-12 14:17:33,
+97,123,Citadel of Tricky Situations,CoTS,2,Zone 03,04 - Difficult,4.98,40:54.50,2454.50,2023-01-25 17:25:44,"Rebeat, original time not recorded"
+98,154,Tower of Traps,ToT,1,Ring 02,05 - Challenging,5.71,40:44.25,2444.25,2023-03-19 22:15:26,Revamp
+99,339,Tower of Misleading Passages,ToMP,2,Zone 05: Dark Side of the Moon,07 - Remorseless,7.78,40:13.95,2413.95,2026-08-25 19:29:28,
+100,87,Tower of Aquatic Contemplation,ToAC,2,Zone 04,02 - Medium,2.95,39:39.70,2379.70,2022-11-26 18:57:16,
+101,142,Tower of Odd Odyssey,ToOO,1,Ring 05: Lost River,05 - Challenging,5.59,39:31.00,2371.00,2023-03-11 11:57:20,
+102,277,Steeple of The Manufactured Monstrosity,SoTMM,1,Ring 08: The Starlit Archives,05 - Challenging,5.92,39:15.63,2355.63,2025-06-15 09:48:10,
+103,225,Tower of Largely Limited Luminance,ToLLL,1,Ring 06: Ashen Towerworks,06 - Intense,6.55,38:42.38,2322.38,2024-06-21 16:28:42,
+104,205,Tower of Horrifying Experiences,ToHE,2,Zone 05,06 - Intense,6.33,38:36.73,2316.73,2023-11-29 17:15:00,
+105,193,Tower of Traversing The Tropics,ToTTT,2,Zone 03: Paradise Atoll,06 - Intense,6.06,38:30.72,2310.72,2023-09-03 10:43:53,
+106,231,Steeple of Underlying Breezes,SoUB,2,Zone 03: Paradise Atoll,06 - Intense,6.54,38:05.59,2285.59,2024-07-18 19:19:03,
+107,280,Tower of Infiltrated Ruins,ToIR,1,Ring 08: The Starlit Archives,06 - Intense,6.36,37:58.07,2278.07,2025-06-15 12:44:49,
+108,109,Steeple of Magical Collaborations,SoMC,2,Zone 02: Arcane Area,06 - Intense,6.22,37:28.22,2248.22,2023-01-12 16:48:57,
+109,95,Tower of Fractal Volution,ToFV,2,Zone 05,04 - Difficult,4.52,37:11.73,2231.73,2022-12-06 16:31:39,
+110,233,Tower of Whirl of Winds,ToWoW,1,Ring 06: Ashen Towerworks,06 - Intense,6.42,37:07.15,2227.15,2024-07-20 22:25:16,
+111,118,Steeple of Desolate Isles,SoDI,2,Zone 03: Paradise Atoll,05 - Challenging,5.28,36:58.02,2218.02,2023-01-19 19:50:31,
+112,202,Tower of Increasing Stress,ToIS,1,Ring 01: Forgotten Ridge,06 - Intense,6.37,36:57.04,2217.04,2023-10-16 20:41:01,
+113,130,Steeple of Hallucinatory Spectacles,SoHS,2,Zone 03: Paradise Atoll,04 - Difficult,4.80,36:54.71,2214.71,2023-02-04 17:26:24,
+114,150,Tower of Destructive Fever,ToDF,2,Zone 07,04 - Difficult,4.72,36:09.21,2169.21,2023-03-13 21:39:10,
+115,113,Tower of Requiring Critical Help,ToRCH,2,Zone 03,04 - Difficult,4.98,36:07.85,2167.85,2023-01-14 21:34:45,
+116,284,Tower of Fleeing From Everything Ending,ToFFEE,1,Ring 08: The Starlit Archives,07 - Remorseless,7.32,36:00.87,2160.87,2025-06-27 19:13:47,
+117,291,Tower of Call It A Day,ToCIAD,2,Zone 03: Paradise Atoll,03 - Hard,3.59,35:54.41,2154.41,2025-10-02 15:20:49,
+118,35,Steeple of Climbing,SoC,1,Ring 01: Forgotten Ridge,05 - Challenging,5.49,35:41.62,2141.62,2022-06-15 15:15:09,
+119,141,Tower of Pleasant Fantasies,ToPF,2,Zone 02,05 - Challenging,5.62,35:39.71,2139.71,2023-03-09 16:51:03,
+120,86,Tower of Triangular Covering,ToTC,1,Ring 01: Forgotten Ridge,05 - Challenging,5.00,35:32.67,2132.67,2022-11-26 16:07:05,
+121,58,Tower of Troublesome Adventures,ToTA,2,Zone 02,04 - Difficult,4.05,35:01.48,2101.48,2022-10-15 09:43:33,
+122,72,"Tower of Cracked, Crushed Cubes",ToCCC,2,Zone 03,03 - Hard,3.58,34:48.88,2088.88,2022-11-10 17:53:09,
+123,69,Tower of Unearthed Discoveries,ToUD,2,Zone 02,04 - Difficult,4.21,34:41.75,2081.75,2022-11-08 19:15:01,
+124,54,Tower of Terrible Mondays,ToTM,1,Ring 04,03 - Hard,3.60,34:31.11,2071.11,2022-10-02 12:59:14,
+125,129,Tower of Impossible Expectations,ToIE,1,Ring 01,06 - Intense,6.01,34:28.86,2068.86,2023-02-03 22:59:34,
+126,120,Tower of Rock Climbing,ToRC,2,Zone 06,04 - Difficult,4.67,34:24.60,2064.60,2023-01-19 20:47:46,
+127,236,Tower of Shifting Slopes,ToSS,2,Zone 04,06 - Intense,6.80,34:20.29,2060.29,2024-07-23 11:27:25,
+128,188,Tower of Flame Restoration,ToFR,2,Zone 08,05 - Challenging,5.96,33:59.56,2039.56,2023-08-26 11:32:09,
+129,81,Tower of Dreams and Caverns,ToDaC,2,Zone 02,04 - Difficult,4.91,33:55.16,2035.16,2022-11-21 11:23:10,
+130,112,Tower of Bright Serenity,ToBS,2,Zone 05,04 - Difficult,4.75,33:41.35,2021.35,2023-01-14 09:35:17,
+131,273,Tower of You're Late For Work,ToYLFW,1,Ring 08: The Starlit Archives,04 - Difficult,4.73,33:28.63,2008.63,2025-06-14 17:43:33,
+132,215,Tower of Forever-Sleeping Flower,ToFSF,1,Ring 06: Ashen Towerworks,07 - Remorseless,7.02,33:22.16,2002.16,2024-04-16 23:52:48,
+133,152,Tower of Cylindrical Extensions,ToCE,2,Zone 07,05 - Challenging,5.61,33:15.92,1995.92,2023-03-15 17:29:25,
+134,235,Tower of Dispersed Rooms,ToDR,1,Ring 06,06 - Intense,6.68,33:04.66,1984.66,2024-07-21 17:23:42,
+135,22,Tower of Versatility,ToV,1,Ring 01: Forgotten Ridge,04 - Difficult,4.64,32:59.19,1979.19,2022-05-29 09:49:14,
+136,217,Tower of Infuriating Obstacles,ToIO,2,Zone 03,06 - Intense,6.32,32:29.53,1949.53,2024-05-18 19:31:05,
+137,304,Tower of Kinetic Potential,ToKP,1,Ring 00,02 - Medium,2.54,32:04.95,1924.95,2025-10-27 21:41:32,
+138,145,Tower of Pure Chroma,ToPC,2,Zone 04,05 - Challenging,5.82,31:59.72,1919.72,2023-03-13 17:13:42,
+139,212,Tower of Wanting More Time,ToWMT,1,Ring 06: Ashen Towerworks,05 - Challenging,5.03,31:48.48,1908.48,2024-03-03 10:36:38,
+140,162,Tower of Melons In Time,ToMIT,2,Zone 08,03 - Hard,3.76,31:46.55,1906.55,2023-04-16 18:25:35,
+141,74,Steeple of Magical Elements,SoME,2,Zone 02: Arcane Area,04 - Difficult,4.81,31:42.20,1902.20,2022-11-14 20:25:02,
+142,325,Tower of Petrichor Resentment,ToPR,2,Zone 06,07 - Remorseless,7.47,31:33.07,1893.07,2026-06-20 12:26:34,
+143,136,Tower of Obvious Chaos,ToOC,1,Ring 05,05 - Challenging,5.72,31:33.04,1893.04,2023-02-11 12:09:57,
+144,213,Tower of Shadowy Radiance,ToSR,1,Ring 06: Ashen Towerworks,06 - Intense,6.08,31:29.15,1889.15,2024-03-03 19:25:17,
+145,28,Steeple of Wall Punching,SoWP,1,Ring 01: Forgotten Ridge,04 - Difficult,4.57,31:22.18,1882.18,2022-06-02 17:58:27,
+146,259,Tower of Arcanium Zenturing,ToAZ,2,Zone 02,06 - Intense,6.76,31:21.73,1881.73,2025-02-12 14:29:50,
+147,60,Tower of Elysium,ToE,1,Ring 04,03 - Hard,3.92,31:06.41,1866.41,2022-10-22 11:44:10,
+148,252,Tower of Falling Up,ToFU,2,Zone 09,06 - Intense,6.93,31:03.32,1863.32,2024-10-21 22:36:34,
+149,248,Tower of Arrantly Bodeful Cavern Depths,ToABCD,2,Zone 09,04 - Difficult,4.95,30:56.79,1856.79,2024-10-12 14:51:53,
+150,331,Tower of Transfigurative Zenith,ToTZ,2,Zone 05: Dark Side of the Moon,05 - Challenging,5.94,30:41.27,1841.27,2026-08-23 11:46:18,
+151,287,Tower of Mechanical Disarray,ToMD,1,Ring 06: Ashen Towerworks,07 - Remorseless,7.79,30:28.34,1828.34,2025-08-31 16:05:15,
+152,146,Tower of Jazz,ToJ,2,Zone 07,02 - Medium,2.75,30:23.29,1823.29,2023-03-13 18:38:57,
+153,289,Tower of High Power,ToHP,2,Zone 03: Paradise Atoll,04 - Difficult,4.77,30:18.00,1818.00,2025-10-02 14:26:55,
+154,250,Tower of Latest Sensation,ToLS,2,Zone 09,05 - Challenging,5.27,30:17.80,1817.80,2024-10-13 20:17:18,
+155,264,Tower of Clandestine Zones,ToCZ,2,Zone 10,05 - Challenging,5.05,30:16.12,1816.12,2025-04-05 14:43:12,
+156,226,Tower of Never Ending Fun,ToNEF,2,Zone 08,06 - Intense,6.65,30:03.05,1803.05,2024-07-03 13:40:12,
+157,67,Tower of Holy Flip,ToHF,1,Ring 04,06 - Intense,6.45,29:46.31,1786.31,2022-11-05 21:07:37,
+158,165,Tower of Galactic Voyage,ToGV,2,Zone 08,05 - Challenging,5.18,29:43.23,1783.23,2023-04-19 19:10:14,
+159,68,Steeple of Sunny Island Shenanigans,SoSIS,2,Zone 03: Paradise Atoll,04 - Difficult,4.03,29:40.50,1780.50,2022-11-07 21:09:46,
+160,36,Tower of Rigid Success,ToRS,1,Ring 05,04 - Difficult,4.36,29:39.11,1779.11,2022-06-15 19:31:39,
+161,41,Tower of Slight Inconvenience,ToSI,1,Ring 03,04 - Difficult,4.01,29:38.56,1778.56,2022-08-29 17:21:12,
+162,88,Tower of Up Is Down,ToUID,2,Zone 04,03 - Hard,3.56,29:29.52,1769.52,2022-11-26 19:27:15,
+163,199,Tower of Overbearing Vertigo,ToOV,2,Zone 08,07 - Remorseless,7.04,29:28.16,1768.16,2023-10-01 09:51:48,
+164,122,Tower of Despair,ToD,1,Ring 03,05 - Challenging,5.29,29:22.10,1762.10,2023-01-24 23:08:51,
+165,218,Tower of Cruel and Unusual Punishment,ToCaUP,2,Zone 03,06 - Intense,6.46,29:19.44,1759.44,2024-05-19 09:45:59,
+166,201,Steeple of Involuntary Isolation,SoII,1,Ring 04: Silent Abyss,06 - Intense,6.71,28:38.31,1718.31,2023-10-03 17:42:36,
+167,78,Tower of Environmental Pain,ToEP,1,Ring 06,04 - Difficult,4.40,28:36.75,1716.75,2022-11-19 12:31:11,
+168,308,Tower of Uncontrollable Ire,ToUI,2,Zone 07,07 - Remorseless,7.71,28:27.54,1707.54,2025-11-07 19:31:38,
+169,285,Tower of Yearning Victory,ToYV,1,Ring 07,07 - Remorseless,7.67,28:14.29,1694.29,2025-07-19 22:20:12,
+170,246,Tower of Bonus Level,ToBL,2,Zone 09,05 - Challenging,5.68,28:13.56,1693.56,2024-10-12 13:13:01,
+171,34,Steeple of Flourishing Wastelands,SoFW,1,Ring 02: Garden of Eeshöl,05 - Challenging,5.61,27:51.91,1671.91,2022-06-14 16:49:48,
+172,176,Tower of Watts,ToW,2,Zone 06,06 - Intense,6.40,27:51.03,1671.03,2023-07-31 12:37:23,
+173,295,Tower of Triangular Terror,ToTT,2,Zone 02,06 - Intense,6.98,27:45.80,1665.80,2025-10-24 21:30:27,
+174,305,Tower of Keys To Success,ToKTS,1,Ring 00,03 - Hard,3.00,27:43.16,1663.16,2025-10-27 22:20:57,
+175,307,Tower of Questionable Trials,ToQT,1,Ring 09,07 - Remorseless,7.23,27:14.08,1634.08,2025-11-01 18:02:27,
+176,140,Tower of Falling and Failing,ToFaF,1,Ring 02,05 - Challenging,5.61,27:10.54,1630.54,2023-03-05 19:08:36,
+177,237,Tower of Ultimately Terrifying,ToUT,2,Zone 01,06 - Intense,6.23,27:00.70,1620.70,2024-08-01 00:07:31,Revamp
+178,206,Tower of Cone Mesh Climbing,ToCMC,2,Zone 07,06 - Intense,6.48,26:55.39,1615.39,2023-12-01 20:04:57,
+179,262,Tower of Interstellar Terrarium,ToIT,2,Zone 10,05 - Challenging,5.63,26:53.51,1613.51,2025-04-05 12:52:07,
+180,49,Tower of Downward Mobility,ToDM,1,Ring 05,05 - Challenging,5.17,26:34.70,1594.70,2022-09-25 10:41:41,
+181,185,Steeple of Wicked Grotto,SoWG,1,Ring 04: Silent Abyss,06 - Intense,6.02,26:34.02,1594.02,2023-08-05 21:25:51,
+182,101,Tower of Excessive Weirdness,ToEW,1,Ring 05: Lost River,02 - Medium,2.89,26:20.28,1580.28,2022-12-27 18:49:03,
+183,40,Tower of Lotsa Damage,ToLD,1,Ring 03,04 - Difficult,4.61,26:19.49,1579.49,2022-08-27 15:10:30,
+184,313,Tower of Fly High,ToFH,2,Zone 01: Steelspire Horizon,03 - Hard,3.10,26:02.15,1562.15,2026-01-24 22:34:25,
+185,310,Tower of Sunshower Lambent,ToSL,2,Zone 01: Steelspire Horizon,02 - Medium,2.55,25:42.18,1542.18,2026-01-24 21:05:59,
+186,240,"Tower of Never Giving Up, Ever",ToNGUE,1,Ring 07,06 - Intense,6.54,25:37.32,1537.32,2024-08-08 16:54:05,
+187,224,Tower of Whisking It All,ToWIA,1,Ring 06: Ashen Towerworks,06 - Intense,6.26,25:30.17,1530.17,2024-06-19 11:03:03,
+188,53,Tower of Mirrored Hecc,ToMH,2,Zone 01,03 - Hard,3.91,25:08.88,1508.88,2022-09-30 20:14:54,
+189,279,Steeple of Balloon Commune,SoBC,1,Ring 08: The Starlit Archives,05 - Challenging,5.63,25:06.94,1506.94,2025-06-15 11:59:34,
+190,82,Tower of Linonophobia,ToL,1,Ring 04,04 - Difficult,4.50,25:00.53,1500.53,2022-11-21 20:54:43,Revamp
+191,194,Tower of Niflheim,ToN,1,Ring 06,07 - Remorseless,7.10,24:55.10,1495.10,2023-09-09 10:53:57,
+192,110,Steeple of Buoyant Automations,SoBA,1,Ring 02: Garden of Eeshöl,06 - Intense,6.03,24:50.80,1490.80,2023-01-12 17:41:23,
+193,198,Tower of Shallow Waters,ToSW,1,Ring 04: Silent Abyss,06 - Intense,6.64,24:44.97,1484.97,2023-09-29 20:55:56,
+194,138,Tower of Menacing Creations,ToMC,2,Zone 03,05 - Challenging,5.56,24:36.51,1476.51,2023-02-21 18:58:21,
+195,64,Tower of Overestimating Difficulty,ToOD,2,Zone 03,01 - Easy,1.99,24:23.55,1463.55,2022-10-23 12:46:27,
+196,63,Tower of Client Object Frenzy,ToCOF,2,Zone 03,02 - Medium,2.87,24:02.95,1442.95,2022-10-23 11:25:51,Revamp
+197,151,Tower of Growing Madness,ToGM,2,Zone 07,05 - Challenging,5.07,24:01.89,1441.89,2023-03-14 23:21:06,
+198,318,Tower of Calm Before The Storm,ToCBTS,2,Zone 01: Steelspire Horizon,03 - Hard,3.77,23:51.77,1431.77,2026-01-25 10:03:54,
+199,281,Steeple of Itsy Bitsy,SoIB,1,Ring 08: The Starlit Archives,06 - Intense,6.40,23:49.72,1429.72,2025-06-16 10:56:00,
+200,181,Steeple of Descendance,SoD,1,Ring 04: Silent Abyss,05 - Challenging,5.15,23:34.51,1414.51,2023-08-05 16:14:17,
+201,51,Tower of Venomous Resonance,ToVR,2,Zone 02,02 - Medium,2.68,23:19.19,1399.19,2022-09-28 17:11:23,Beaten when it was Buttons (Removed)
+202,73,Steeple of Realm Odyssey,SoRO,2,Zone 02: Arcane Area,03 - Hard,3.99,23:18.86,1398.86,2022-11-14 19:52:31,Revamp
+203,257,Tower of Funky Grooves,ToFG,2,Zone 04,07 - Remorseless,7.29,23:10.55,1390.55,2025-02-11 09:47:00,
+204,39,Tower of Ancient Trickery,ToAT,1,Ring 03,02 - Medium,2.62,23:03.50,1383.50,2022-08-27 14:42:58,
+205,179,Tower of Ancestral Interference,ToAI,1,Ring 04: Silent Abyss,04 - Difficult,4.99,23:00.31,1380.31,2023-08-05 14:30:06,
+206,163,Tower of Cosmic Tides,ToCT,2,Zone 08,03 - Hard,3.93,22:49.17,1369.17,2023-04-16 20:18:37,
+207,61,Steeple of Abyssal Upturn,SoAU,2,Zone 03: Paradise Atoll,03 - Hard,3.94,22:46.51,1366.51,2022-10-22 21:26:45,
+208,312,Tower of Quantum Rhythm,ToQR,2,Zone 01: Steelspire Horizon,02 - Medium,2.72,22:44.72,1364.72,2026-01-24 21:38:44,
+209,234,Tower of Climactic Beats,ToCB,1,Ring 06: Ashen Towerworks,07 - Remorseless,7.06,22:42.11,1362.11,2024-07-21 12:07:36,
+210,321,Tower of Fixture Park,ToFP,2,Zone 01: Steelspire Horizon,06 - Intense,6.30,22:33.04,1353.04,2026-01-25 12:01:21,
+211,175,Steeple of Upright Cliffs,SoUC,2,Zone 03: Paradise Atoll,05 - Challenging,5.78,22:29.12,1349.12,2023-07-28 20:58:45,
+212,184,Steeple of Xenial Abyss,SoXA,1,Ring 04: Silent Abyss,05 - Challenging,5.90,22:21.78,1341.78,2023-08-05 20:54:53,
+213,294,Tower of No Return,ToNR,2,Zone 08,07 - Remorseless,7.73,22:12.09,1332.09,2025-10-11 19:04:55,
+214,322,Tower of Nerves of Steel,ToNoS,2,Zone 01: Steelspire Horizon,06 - Intense,6.66,22:06.54,1326.54,2026-01-25 17:16:38,
+215,255,Tower of Triple Jeopardy,ToTJ,1,Ring 05: Lost River,07 - Remorseless,7.01,21:37.31,1297.31,2024-10-27 15:05:03,
+216,216,Tower of Manic Lows,ToML,2,Zone 08,06 - Intense,6.78,21:33.19,1293.19,2024-05-15 19:31:35,
+217,48,Tower of Hands Sweating,ToHS,2,Zone 01,03 - Hard,3.48,21:21.66,1281.66,2022-09-24 15:10:24,Revamp
+218,106,Tower of Somewhat Simple Scaling,ToSSS,1,Ring 08,02 - Medium,2.38,21:10.16,1270.16,2023-01-11 16:26:41,
+219,31,Steeple of Various Vivariums,SoVV,1,Ring 02: Garden of Eeshöl,04 - Difficult,4.01,20:48.67,1248.67,2022-06-04 21:39:15,
+220,261,Tower of Nonsensical Platforms,ToNP,1,Ring 04,07 - Remorseless,7.08,20:33.54,1233.54,2025-02-22 15:05:06,
+221,100,Tower of Two Sided Troubles,ToTST,1,Ring 05: Lost River,03 - Hard,3.79,20:25.66,1225.66,2022-12-27 16:06:55,
+222,330,Tower of Xenocrystically Yonderous Zaniness,ToXYZ,2,Zone 05: Dark Side of the Moon,05 - Challenging,5.06,20:20.26,1220.26,2026-08-23 11:14:29,
+223,57,Tower of Friendly Jumps,ToFJ,1,Ring 06,03 - Hard,3.03,20:10.67,1210.67,2022-10-12 22:00:36,
+224,299,Tower of Boost Mayhem,ToBM,1,Ring 00,02 - Medium,2.00,20:08.08,1208.08,2025-10-27 16:25:39,
+225,223,Steeple of Dusty Dunes,SoDD,2,Zone 03: Paradise Atoll,06 - Intense,6.32,19:49.04,1189.04,2024-06-14 21:09:43,
+226,25,Tower of Big Hole,ToBH,1,Ring 02,03 - Hard,3.40,19:37.55,1177.55,2022-05-30 17:45:13,
+227,27,Steeple of Greenhouse Placidity,SoGP,1,Ring 02: Garden of Eeshöl,03 - Hard,3.70,19:32.38,1172.38,2022-06-01 17:23:31,
+228,97,Tower of Super Stupid Security Systems,ToSSSS,2,Zone 05,03 - Hard,3.91,19:27.28,1167.28,2022-12-11 21:09:40,
+229,260,Tower of Noticeable Infuriation,ToNI,1,Ring 01,02 - Medium,2.80,19:24.41,1164.41,2025-02-18 18:48:04,
+230,326,Tower of Brief Challenges,ToBC,2,Zone 06,07 - Remorseless,7.56,19:05.47,1145.47,2026-08-02 23:09:04,
+231,148,Tower of Sweet Victory,ToSV,2,Zone 07,03 - Hard,3.72,19:04.03,1144.03,2023-03-13 19:18:20,
+232,45,Tower of Winning Every Run,ToWER,1,Ring 03,03 - Hard,3.55,18:52.19,1132.19,2022-09-16 21:40:33,
+233,135,Steeple of Cliffside Falls,SoCF,2,Zone 03: Paradise Atoll,05 - Challenging,5.83,18:47.48,1127.48,2023-02-10 23:11:58,
+234,332,Tower of Blossoming Nightfall,ToBN,2,Zone 05: Dark Side of the Moon,06 - Intense,6.17,18:47.42,1127.42,2026-08-23 12:06:05,
+235,335,Tower of Viridian Dichotomy,ToVD,2,Zone 05: Dark Side of the Moon,05 - Challenging,5.57,18:46.17,1126.17,2026-08-23 15:01:10,
+236,84,Steeple of Twisted Crystals,SoTC,2,Zone 02: Arcane Area,04 - Difficult,4.15,18:43.05,1123.05,2022-11-24 18:01:55,
+237,271,Tower of Pursuit Led Astray,ToPLA,1,Ring 08: The Starlit Archives,04 - Difficult,4.96,18:32.40,1112.40,2025-06-14 10:34:51,
+238,33,Tower of Peace,ToP,2,Zone 01,03 - Hard,3.26,18:30.02,1110.02,2022-06-12 14:53:00,
+239,286,Tower of Rhythm Heaven,ToRH,1,Ring 06: Ashen Towerworks,07 - Remorseless,7.74,18:22.68,1102.68,2025-08-12 23:42:03,
+240,302,Tower of Critical Damage,ToCD,1,Ring 00,01 - Easy,1.93,18:19.37,1099.37,2025-10-27 20:47:25,
+241,4,Tower of Hecc,ToH,1,Ring 01,03 - Hard,3.30,18:13.73,1093.73,2022-05-12 20:17:54,
+242,232,Tower of A Depressing Future,ToADF,1,Ring 06,06 - Intense,6.12,18:06.30,1086.30,2024-07-20 12:34:58,
+243,76,Tower of Fairly Simple Challenges,ToFSC,2,Zone 04,01 - Easy,1.58,18:04.03,1084.03,2022-11-16 17:19:08,
+244,303,Tower of Various Pressures,ToVP,1,Ring 00,02 - Medium,2.24,17:48.05,1068.05,2025-10-27 21:07:12,
+245,43,Tower of Inverted Colors,ToIC,1,Ring 03,02 - Medium,2.09,17:43.69,1063.69,2022-08-30 20:18:57,
+246,75,Tower of Fun and Simple Trials,ToFaST,2,Zone 04,03 - Hard,3.29,17:36.96,1056.96,2022-11-16 16:56:13,
+247,210,Tower of Viaduct Traversing,ToVT,1,Ring 06: Ashen Towerworks,03 - Hard,3.89,17:31.60,1051.60,2024-03-03 09:48:28,
+248,30,Steeple of Feudal Foliage,SoFF,1,Ring 02: Garden of Eeshöl,03 - Hard,3.80,17:31.36,1051.36,2022-06-04 21:17:34,
+249,242,Tower of Anticlimactic Outcomes,ToAO,2,Zone 05,06 - Intense,6.96,17:28.09,1048.09,2024-08-14 22:19:00,
+250,83,Tower of Radiant Realms,ToRR,1,Ring 06,04 - Difficult,4.52,17:20.59,1040.59,2022-11-23 16:04:31,
+251,316,Steeple of Dungeon Runner,SoDR,2,Zone 01: Steelspire Horizon,05 - Challenging,5.09,17:16.14,1036.14,2026-01-24 23:55:31,
+252,189,Tower of Shattered Dreams,ToSD,1,Ring 02,05 - Challenging,5.84,17:14.55,1034.55,2023-08-27 11:11:54,
+253,203,Tower of Intense Solar Chaos,ToISC,1,Ring 06,06 - Intense,6.30,17:13.65,1033.65,2023-11-16 19:55:08,
+254,229,Steeple of Huge Pain,SoHP,1,Ring 01: Forgotten Ridge,06 - Intense,6.35,17:10.67,1030.67,2024-07-16 16:00:49,
+255,38,Tower of Screen Punching,ToSP,1,Ring 01,05 - Challenging,5.20,17:03.97,1023.97,2022-08-21 21:21:22,
+256,44,Tower of Fatness,ToF,1,Ring 03,03 - Hard,3.54,16:57.14,1017.14,2022-09-16 21:20:35,
+257,274,Steeple of Two Minute Noodles,SoTMN,1,Ring 08: The Starlit Archives,05 - Challenging,5.89,16:56.60,1016.60,2025-06-14 18:17:24,
+258,258,Tower of Dangerous Expeditions,ToDE,1,Ring 01: Forgotten Ridge,06 - Intense,6.75,16:54.69,1014.69,2025-02-12 13:09:31,
+259,125,Tower of Perilous Antipode,ToPA,1,Ring 02: Garden of Eeshöl,06 - Intense,6.00,16:50.91,1010.91,2023-01-27 17:15:28,"Rebeat, original time not recorded"
+260,333,Tower of Unknown Mysteries,ToUM,2,Zone 05: Dark Side of the Moon,03 - Hard,3.50,16:39.24,999.24,2026-08-23 12:23:38,
+261,197,Tower of Sakura Bloom,ToSB,2,Zone 06,07 - Remorseless,7.07,16:24.34,984.34,2023-09-25 20:26:44,Beaten when it was Astral Fusion
+262,93,Tower of Xanthophobia,ToX,2,Zone 03,03 - Hard,3.81,16:23.50,983.50,2022-12-01 17:51:58,
+263,190,Tower of White Space,ToWS,2,Zone 07,05 - Challenging,5.88,16:21.97,981.97,2023-08-31 16:50:47,"Rebeat, original time not recorded"
+264,340,Tower of Poisoned Waters,ToPW,2,Zone 05: Dark Side of the Moon,07 - Remorseless,7.56,16:20.09,980.09,2026-08-31 20:08:50,
+265,297,Tower of Buttons,ToB,1,Ring 00,01 - Easy,1.48,16:19.89,979.89,2025-10-27 15:20:27,
+266,270,Tower of Massive Overheating,ToMO,2,Zone 06,07 - Remorseless,7.42,16:12.05,972.05,2025-05-03 19:54:15,
+267,319,Steeple of Bad Cable Management,SoBCM,2,Zone 01: Steelspire Horizon,04 - Difficult,4.65,16:00.42,960.42,2026-01-25 10:21:14,
+268,220,Tower of Great Overcomings,ToGO,1,Ring 09,06 - Intense,6.49,15:44.57,944.57,2024-05-24 21:57:02,
+269,52,Tower of Slanted Anticipation,ToSA,2,Zone 02,02 - Medium,2.98,15:42.39,942.39,2022-09-28 17:27:17,
+270,149,Tower of Bygone Relic,ToBR,2,Zone 07,04 - Difficult,4.49,15:42.05,942.05,2023-03-13 21:01:49,
+271,167,Tower of Beat Block Berserk,ToBBB,1,Ring 09,07 - Remorseless,7.03,15:28.98,928.98,2023-05-10 21:03:52,
+272,147,Tower of Rough Waters,ToRW,2,Zone 07,03 - Hard,3.23,15:25.05,925.05,2023-03-13 18:55:58,
+273,56,Tower of Trivial Resentment,ToTR,1,Ring 05,04 - Difficult,4.11,15:09.77,909.77,2022-10-08 18:01:00,
+274,108,Tower of Stairs To Spare,ToSTS,2,Zone 05,05 - Challenging,5.31,15:01.03,901.03,2023-01-11 17:41:36,
+275,315,Steeple of Golf Course,SoGC,2,Zone 01: Steelspire Horizon,01 - Easy,1.86,14:52.41,892.41,2026-01-24 23:37:15,
+276,301,Tower of No Strings Attached,ToNSA,1,Ring 00,02 - Medium,2.79,14:46.89,886.89,2025-10-27 20:23:06,
+277,119,Tower of Foreign Domains,ToFD,2,Zone 06,03 - Hard,3.64,14:38.28,878.28,2023-01-19 20:10:49,
+278,19,Tower of Keyboard Yeeting,ToKY,1,Ring 01,04 - Difficult,4.10,14:24.56,864.56,2022-05-22 10:30:15,
+279,186,Tower of One Nine,ToON,2,Zone 08,06 - Intense,6.33,14:19.70,859.70,2023-08-17 10:00:39,
+280,290,Steeple of Undersea Voyage,SoUV,2,Zone 03: Paradise Atoll,02 - Medium,2.74,14:17.51,857.51,2025-10-02 14:43:28,
+281,172,Tower of Tokyo Heights,ToTH,1,Ring 05,06 - Intense,6.46,14:16.48,856.48,2023-07-09 14:34:06,
+282,268,Tower of Mach Nine,ToMN,2,Zone 10,06 - Intense,6.99,14:00.83,840.83,2025-04-09 21:07:06,
+283,334,Tower of Quaint Quadrant,ToQQ,2,Zone 05: Dark Side of the Moon,04 - Difficult,4.56,13:48.71,828.71,2026-08-23 14:39:45,
+284,32,Steeple of Lost In Quiescence,SoLIQ,1,Ring 02: Garden of Eeshöl,03 - Hard,3.84,13:32.29,812.29,2022-06-05 09:47:04,
+285,11,Steeple of Nightfall,SoN,1,Ring 02: Garden of Eeshöl,02 - Medium,2.81,13:24.11,804.11,2022-05-17 18:11:06,
+286,317,Tower of Steel and Thunder,ToSaT,2,Zone 01: Steelspire Horizon,02 - Medium,2.85,13:21.18,801.18,2026-01-25 09:38:52,
+287,37,Tower of Wall Hugging,ToWH,1,Ring 03,04 - Difficult,4.37,13:17.79,797.79,2022-06-19 12:04:54,
+288,139,Tower of Absolute Vexation,ToAV,2,Zone 01,05 - Challenging,5.21,13:03.44,783.44,2023-03-04 10:39:37,Revamp
+289,178,Steeple of Resort In Stasis,SoRIS,1,Ring 04: Silent Abyss,04 - Difficult,4.71,13:01.09,781.09,2023-08-05 13:32:52,"Rebeat, original time not recorded"
+290,174,Tower of Table Flipping,ToTF,1,Ring 02,06 - Intense,6.44,12:49.13,769.13,2023-07-28 16:43:08,
+291,211,Tower of Corner Wedge Climbing,ToCWC,1,Ring 06: Ashen Towerworks,04 - Difficult,4.23,12:37.50,757.50,2024-03-03 10:02:42,
+292,114,Tower of Dust and Decay,ToDaD,1,Ring 04,05 - Challenging,5.22,12:20.66,740.66,2023-01-16 20:15:19,
+293,309,Tower of Ten Floors Challenge,ToTFC,2,Zone 01: Steelspire Horizon,03 - Hard,3.85,12:14.38,734.38,2026-01-24 16:28:50,
+294,180,Steeple of Ruinous Abate,SoRA,1,Ring 04: Silent Abyss,04 - Difficult,4.87,11:55.82,715.82,2023-08-05 15:47:51,
+295,192,Tower of Floral Fury,ToFF,1,Ring 05,06 - Intense,6.05,11:44.68,704.68,2023-09-02 18:10:32,
+296,320,Steeple of Sunken Kingdoms,SoSK,2,Zone 01: Steelspire Horizon,05 - Challenging,5.79,11:37.07,697.07,2026-01-25 10:33:45,
+297,29,Tower of Atlantic Depths,ToAD,2,Zone 01,02 - Medium,2.65,11:30.45,690.45,2022-06-03 19:38:37,Revamp
+298,298,Tower of Motion Evolution,ToME,1,Ring 00,01 - Easy,1.46,11:17.65,677.65,2025-10-27 16:00:26,
+299,46,Tower of Stress,ToS,1,Ring 01,04 - Difficult,4.88,11:15.65,675.65,2022-09-17 19:29:05,Revamp
+300,15,Tower of Phone Snapping,ToPS,1,Ring 02,02 - Medium,2.76,11:08.04,668.04,2022-05-19 15:54:22,
+301,183,Steeple of Guiding Lights,SoGL,1,Ring 04: Silent Abyss,05 - Challenging,5.66,11:07.62,667.62,2023-08-05 19:21:56,
+302,10,Steeple of Overgrowth,SoO,1,Ring 02: Garden of Eeshöl,02 - Medium,2.67,10:49.54,649.54,2022-05-17 17:42:23,
+303,21,Tower of Immense Ire,ToII,1,Ring 01: Forgotten Ridge,04 - Difficult,4.24,10:39.83,639.83,2022-05-24 20:04:10,
+304,16,Steeple of Overgrown Ascension,SoOA,1,Ring 02: Garden of Eeshöl,03 - Hard,3.16,10:30.84,630.84,2022-05-19 16:18:50,
+305,329,Tower of Faulty Cityscapes,ToFC,2,Zone 05: Dark Side of the Moon,03 - Hard,3.08,10:25.74,625.74,2026-08-23 10:12:01,
+306,66,Tower of Broken Bricks,ToBB,2,Zone 03,02 - Medium,2.07,10:19.19,619.19,2022-10-24 19:46:08,
+307,306,Tower of Dancing All Night,ToDAN,1,Ring 00,03 - Hard,3.35,10:15.97,615.97,2025-10-27 22:33:01,
+308,94,Tower of Leaning Ledges,ToLL,1,Ring 04,04 - Difficult,4.70,10:10.02,610.02,2022-12-02 17:25:17,Revamp
+309,23,Tower of Spiralling Heights,ToSH,1,Ring 04,01 - Easy,1.90,10:08.38,608.38,2022-05-30 14:47:15,
+310,209,Tower of Fruity Zeal,ToFZ,1,Ring 06: Ashen Towerworks,02 - Medium,2.66,10:04.13,604.13,2024-03-03 09:27:59,
+311,65,Tower of Six Feet Under,ToSFU,2,Zone 03,01 - Easy,1.05,9:58.07,598.07,2022-10-23 12:57:42,
+312,128,Tower of Rage,ToR,1,Ring 01,05 - Challenging,5.58,9:55.72,595.72,2023-02-02 20:28:02,Revamp
+313,245,Steeple of Malignant Blight,SoMB,1,Ring 04: Silent Abyss,07 - Remorseless,7.45,9:41.50,581.50,2024-10-11 19:44:35,
+314,24,Tower of Getting Gnomed,ToGG,1,Ring 04,02 - Medium,2.84,9:40.35,580.35,2022-05-30 15:12:50,
+315,50,Tower of Overcoming Hatred,ToOH,1,Ring 02,03 - Hard,3.73,9:26.29,566.29,2022-09-27 19:06:21,Revamp
+316,116,Steeple of Witch Calamity,SoWC,2,Zone 02: Arcane Area,05 - Challenging,5.82,9:03.67,543.67,2023-01-18 20:02:27,Revamp
+317,13,Tower of Zero Disturbances,ToZD,2,Zone 01,01 - Easy,1.15,8:59.69,539.69,2022-05-18 20:31:30,
+318,296,Tower of Genesis,ToG,1,Ring 00,01 - Easy,1.00,8:56.39,536.39,2025-10-27 14:51:23,
+319,91,Steeple of Crystal Ascension,SoCA,2,Zone 02: Arcane Area,05 - Challenging,5.24,8:50.64,530.64,2022-11-29 20:55:56,Revamp
+320,336,Tower of Kieru Taiyo,ToKT,2,Zone 05: Dark Side of the Moon,06 - Intense,6.63,8:44.67,524.67,2026-08-23 15:10:52,
+321,12,Tower of Jolly Good Fun,ToJGF,1,Ring 01: Forgotten Ridge,01 - Easy,1.65,8:39.46,519.46,2022-05-18 17:25:51,
+322,292,Steeple of Waterfall,SoW,2,Zone 03: Paradise Atoll,03 - Hard,3.24,8:20.09,500.09,2025-10-02 15:30:33,
+323,26,Steeple of Infectious Foliage,SoIF,1,Ring 02: Garden of Eeshöl,02 - Medium,2.32,8:05.82,485.82,2022-05-30 21:11:10,
+324,92,Steeple of Aquatic Rallies,SoAR,2,Zone 03: Paradise Atoll,04 - Difficult,4.34,7:57.96,477.96,2022-12-01 15:40:53,
+325,311,Steeple of Zip Zap Pop!,SoZZP,2,Zone 01: Steelspire Horizon,01 - Easy,1.43,7:52.83,472.83,2026-01-24 21:15:25,
+326,3,Tower of Madness,ToM,1,Ring 01,02 - Medium,2.12,7:39.99,459.99,2021-09-05 20:29:12,Revamp
+327,2,Tower of Anger,ToA,1,Ring 01,01 - Easy,1.50,7:39.39,459.39,2021-08-31 19:27:26,Revamp
+328,79,Steeple of Atmospheric Powers,SoAP,2,Zone 02: Arcane Area,03 - Hard,3.36,7:36.25,456.25,2022-11-19 13:16:09,
+329,77,Tower of Cold Hands,ToCH,1,Ring 02,04 - Difficult,4.00,7:25.08,445.08,2022-11-18 21:29:28,
+330,55,Tower of Nice Views,ToNV,1,Ring 05,02 - Medium,2.85,7:16.91,436.91,2022-10-08 15:49:07,
+331,9,Steeple of Devil's Snare,SoDS,1,Ring 02: Garden of Eeshöl,01 - Easy,1.54,7:09.71,429.71,2022-05-16 18:40:30,
+332,6,Steeple of Meaningless Decisions,SoMD,1,Ring 01: Forgotten Ridge,01 - Easy,1.22,7:06.56,426.56,2022-05-15 15:24:05,
+333,14,Tower of Peaceful Happiness and Tranquility,ToPHaT,2,Zone 01,01 - Easy,1.55,6:56.98,416.98,2022-05-18 20:42:00,Revamp
+334,20,Steeple of Uninstalling Roblox,SoUR,1,Ring 01: Forgotten Ridge,03 - Hard,3.74,6:26.70,386.70,2022-05-22 14:02:23,
+335,47,Steeple of Mystical Marine,SoMM,2,Zone 03: Paradise Atoll,01 - Easy,1.76,6:20.96,380.96,2022-09-23 22:04:18,
+336,71,Steeple of Biome Traversing,SoBT,2,Zone 02: Arcane Area,02 - Medium,2.39,6:09.75,369.75,2022-11-09 20:24:51,
+337,8,Steeple of Low Woe,SoLW,1,Ring 01: Forgotten Ridge,02 - Medium,2.78,5:22.80,322.80,2022-05-15 16:18:04,
+338,17,Steeple of Pursuit,SoP,1,Ring 01: Forgotten Ridge,02 - Medium,2.86,5:22.33,322.33,2022-05-19 16:32:49,
+339,7,Steeple of Beginner's Journey,SoBJ,1,Ring 02: Garden of Eeshöl,01 - Easy,1.11,5:17.88,317.88,2022-05-15 15:43:51,
+340,70,Steeple of Astounding Sorcery,SoAS,2,Zone 02: Arcane Area,02 - Medium,2.53,5:08.58,308.58,2022-11-09 19:56:26,Revamp
+341,1,Tower of A Simple Time,ToAST,1,Ring 01,01 - Easy,1.25,4:56.63,296.63,2021-08-31 18:57:25,Beaten when it was Annoyingly Simple Trials
